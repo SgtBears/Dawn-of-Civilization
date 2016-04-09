@@ -166,6 +166,14 @@
 		<English>Hellenic State</English>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_NAZI_INDONESIA</Tag>
+		<English>%s2 East Indies</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_NAZI_KHMER</Tag>
+		<English>%s2 Indochina</English>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_NAZI_ETHIOPIA</Tag>
 		<English>%s2 East Africa</English>
 		<French>
@@ -219,25 +227,25 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_NAZI_FRANCE</Tag>
-		<English>Vichy %s1</English>
+		<English>%s2 State</English>
 		<French>
-			<Text>%s1 de Vichy</Text>
-			<Gender>Female</Gender>
+			<Text>Etat %s2</Text>
+			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</French>
 		<German>
-			<Text>Vichy-%s1:Vichy-%s1:Vichy-%s1</Text>
-			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Text>%s2 Staat:%s2 Staat:%s2 Staat</Text>
+			<Gender>Male:Male:Male</Gender>
 			<Plural>0:0:0</Plural>
 		</German>
 		<Italian>
-			<Text>%s1 di Vichy</Text>
+			<Text>Stato %s2</Text>
 			<Gender>Female</Gender>
 			<Plural>0</Plural>
 		</Italian>
 		<Spanish>
-			<Text>%s1 de Vichy</Text>
-			<Gender>Female</Gender>
+			<Text>Estado %s2</Text>
+			<Gender>Male</Gender>
 			<Plural>0</Plural>
 		</Spanish>
 	</TEXT>
@@ -251,27 +259,7 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_NAZI_NETHERLANDS</Tag>
-		<English>Reichsgau Holland</English>
-		<French>
-			<Text>Reichsgau de Hollande</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</French>
-		<German>
-			<Text>Reichsgau Holland:Reichsgau Holland:Reichsgau Holland</Text>
-			<Gender>Male:Male:Male</Gender>
-			<Plural>0:0:0</Plural>
-		</German>
-		<Italian>
-			<Text>Reichsgau d'Olanda</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Italian>
-		<Spanish>
-			<Text>Reichsgau de Holanda</Text>
-			<Gender>Male</Gender>
-			<Plural>0</Plural>
-		</Spanish>
+		<English>Reichskommissariat Niederlande</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_NAZI_MALI</Tag>
@@ -308,6 +296,18 @@
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_NAZI_MUGHALS</Tag>
 		<English>%s2 West India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_NAZI_INDIA</Tag>
+		<English>%s2 India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_NAZI_TAMILS</Tag>
+		<English>%s2 South India</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_GERMANY_NAZI_MAYA</Tag>
+		<English>%s2 Yucatán</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_GERMANY_NAZI_CANADA</Tag>

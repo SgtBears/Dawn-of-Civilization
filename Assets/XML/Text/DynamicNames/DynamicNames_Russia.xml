@@ -194,8 +194,16 @@
 		<English>Far Eastern Republic</English>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_CIV_RUSSIA_SOVIET_JAPAN</Tag>
+		<English>Far Eastern Republic</English>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_SOVIET_TURKEY</Tag>
 		<English>Transcaucasian Socialist Federative Soviet Republic</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PEOPLES_REPUBLIC_ADJECTIVE</Tag>
+		<English>%s2 People's Republic</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_CIV_RUSSIA_SOVIET_GERMANY</Tag>

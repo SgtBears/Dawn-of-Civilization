@@ -243,14 +243,12 @@ dMasterTitles = {
 }
 
 dCommunistVassalTitlesGeneric = {
-	iRussia : "TXT_KEY_CIV_RUSSIA_SOVIET",
+#	iRussia : "TXT_KEY_CIV_RUSSIA_SOVIET_REPUBLIC_ADJECTIVE",
 }
 
 dCommunistVassalTitles = {
 	iRussia : {
 		iChina : "TXT_KEY_CIV_RUSSIA_SOVIET_REPUBLIC_ADJECTIVE",
-		iJapan : "TXT_KEY_CIV_RUSSIA_SOVIET_JAPAN",
-		iTurkey : "TXT_KEY_CIV_RUSSIA_SOVIET_TURKEY",
 		iGermany : "TXT_KEY_CIV_RUSSIA_SOVIET_GERMANY",
 	},
 }
@@ -261,24 +259,40 @@ dFascistVassalTitlesGeneric = {
 
 dFascistVassalTitles = {
 	iGermany : {
-		iEgypt : "TXT_KEY_CIV_GERMANY_REICHSPROTEKTORAT",
+		iEgypt : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
 		iChina : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
+		iBabylonia : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
 		iGreece : "TXT_KEY_CIV_GERMANY_NAZI_GREECE",
+		iIndia : "TXT_KEY_CIV_GERMANY_NAZI_INDIA"
 		iPhoenicia : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
-		iRome : "TXT_KEY_CIV_GERMANY_REICHSPROTEKTORAT",
+		iRome : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
+		iTamils : "TXT_KEY_CIV_GERMANY_NAZI_TAMILS",
 		iEthiopia : "TXT_KEY_CIV_GERMANY_NAZI_ETHIOPIA",
+		iKorea : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
+		iMaya : "TXT_KEY_CIV_GERMANY_NAZI_MAYA",
 		iByzantium : "TXT_KEY_CIV_GERMANY_NAZI_BYZANTIUM",
+		iJapan : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
+		iVikings : "TXT_KEY_CIV_GERMANY_NAZI_VIKINGS",
+		iKhmer : "TXT_KEY_CIV_GERMANY_NAZI_KHMER",
+		iIndonesia : "TXT_KEY_CIV_GERMANY_NAZI_INDONESIA",
+		iMoors : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
 		iSpain : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
 		iFrance : "TXT_KEY_CIV_GERMANY_NAZI_FRANCE",
 		iEngland : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
 		iHolyRome : "TXT_KEY_CIV_GERMANY_NAZI_HOLY_ROME",
 		iRussia : "TXT_KEY_CIV_GERMANY_NAZI_RUSSIA",
-		iNetherlands : "TXT_KEY_CIV_GERMANY_NAZI_NETHERLANDS",
 		iMali : "TXT_KEY_CIV_GERMANY_NAZI_MALI",
 		iPoland : "TXT_KEY_CIV_GERMANY_NAZI_POLAND",
 		iPortugal : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
+		iInca : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
+		iItaly : "TXT_KEY_CIV_GERMANY_NAZI_ITALY",
+		iMongolia : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
 		iMughals : "TXT_KEY_CIV_GERMANY_NAZI_MUGHALS",
 		iTurkey : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
+		iNetherlands : "TXT_KEY_CIV_GERMANY_NAZI_NETHERLANDS",
+		iAmerica : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
+		iArgentina : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
+		iBrazil : "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT",
 		iCanada : "TXT_KEY_CIV_GERMANY_NAZI_CANADA",
 	},
 }
@@ -381,8 +395,8 @@ lRepublicAdj = [iBabylonia, iRome, iMoors, iSpain, iFrance, iPortugal, iInca, iI
 lSocialistRepublicOf = [iMoors, iHolyRome, iBrazil]
 lSocialistRepublicAdj = [iPersia, iItaly, iAztecs, iArgentina]
 
-lPeoplesRepublicOf = [iIndia, iChina, iPolynesia, iRome, iJapan, iTibet, iIndonesia, iMali, iPoland, iMughals, iThailand, iCongo]
-lPeoplesRepublicAdj = [iTamils, iByzantium, iMongolia]
+lPeoplesRepublicOf = [iIndia, iChina, iPolynesia, iRome, iJapan, iTibet, iIndonesia, iMali, iMughals, iThailand, iCongo]
+lPeoplesRepublicAdj = [iTamils, iByzantium, iMongolia, iPoland]
 
 lIslamicRepublicOf = [iIndia, iPersia, iMali, iMughals]
 
@@ -1260,13 +1274,24 @@ def vassalTitle(iPlayer, iMaster):
 		sCommunistTitle = getOrElse(dCommunistVassalTitlesGeneric, iMaster)
 		if sCommunistTitle: return sCommunistTitle
 		
+		if iPlayer in lSocialistRepublicOf: return "TXT_KEY_SOCIALIST_REPUBLIC_OF"
+		if iPlayer in lSocialistRepublicAdj: return "TXT_KEY_SOCIALIST_REPUBLIC_ADJECTIVE"
+		if iPlayer in lPeoplesRepublicOf: return "TXT_KEY_PEOPLES_REPUBLIC_OF"
+		if iPlayer in lPeoplesRepublicAdj: return "TXT_KEY_PEOPLES_REPUBLIC_ADJECTIVE"
+		return key(iPlayer, "COMMUNIST")
+		
 	if isFascist(iMaster):
 		sFascistTitle = getOrElse(getOrElse(dFascistVassalTitles, iMaster, {}), iPlayer)
 		if sFascistTitle: return sFascistTitle
 		
 		sFascistTitle = getOrElse(dFascistVassalTitlesGeneric, iMaster)
 		if sFascistTitle: return sFascistTitle
-				
+		
+		if iMaster == iGermany and short(iPlayer) == "Colombia":
+			return "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT"
+		if iMaster == iGermany and short(iPlayer) == "Mexico":
+			return "TXT_KEY_CIV_GERMANY_REICHSKOMMISSARIAT"
+		
 	if short(iMaster) == "Austria" and iPlayer == iPoland:
 		return "TXT_KEY_CIV_AUSTRIAN_POLAND"
 		
