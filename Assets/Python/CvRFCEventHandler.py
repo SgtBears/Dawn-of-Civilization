@@ -542,7 +542,7 @@ class CvRFCEventHandler:
 					plot.setWithinGreatWall(True)
 					
 		# Leoreth: La Mezquita
-		if iBuildingType == iMezquita:
+		if iBuildingType == iLaMezquita:
 			lGPList = [0, 0, 0, 0, 0, 0, 0]
 			for city in utils.getCityList(iOwner):
 				for i in range(7):

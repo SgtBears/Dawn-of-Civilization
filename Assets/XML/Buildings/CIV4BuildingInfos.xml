@@ -8304,63 +8304,6 @@
 			</Flavors>
 		</BuildingInfo>
 		<BuildingInfo>
-			<BuildingClass>BUILDINGCLASS_HAGIA_SOPHIA</BuildingClass>
-			<Type>BUILDING_HAGIA_SOPHIA</Type>
-			<Description>TXT_KEY_BUILDING_HAGIA_SOPHIA</Description>
-			<Civilopedia>TXT_KEY_BUILDING_HAGIA_SOPHIA_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_BUILDING_HAGIA_SOPHIA_STRATEGY</Strategy>
-			<Advisor>ADVISOR_ECONOMY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_HAGIA_SOPHIA</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_HAGIA_SOPHIA</MovieDefineTag>
-			<StateReligion>RELIGION_ORTHODOXY</StateReligion>
-			<PrereqReligion>RELIGION_ORTHODOXY</PrereqReligion>
-			<MaxStartEra>ERA_MEDIEVAL</MaxStartEra>
-			<ObsoleteTech>TECH_STEAM_POWER</ObsoleteTech>
-			<PrereqTech>TECH_THEOLOGY</PrereqTech>
-			<GreatPeopleUnitClass>UNITCLASS_GREAT_ENGINEER</GreatPeopleUnitClass>
-			<iGreatPeopleRateChange>2</iGreatPeopleRateChange>
-			<bTeamShare>1</bTeamShare>
-			<bNukeImmune>1</bNukeImmune>
-			<iCost>500</iCost>
-			<iHurryCostModifier>100</iHurryCostModifier>
-			<iAdvancedStartCost>-1</iAdvancedStartCost>
-			<iMinAreaSize>-1</iMinAreaSize>
-			<iConquestProb>100</iConquestProb>
-			<iAsset>12</iAsset>
-			<fVisibilityPriority>1.0</fVisibilityPriority>
-			<ObsoleteSafeCommerceChanges>
-				<iCommerce>0</iCommerce>
-				<iCommerce>0</iCommerce>
-				<iCommerce>8</iCommerce>
-			</ObsoleteSafeCommerceChanges>
-			<CommerceChangeDoubleTimes>
-				<iCommerce>0</iCommerce>
-				<iCommerce>0</iCommerce>
-				<iCommerce>1000</iCommerce>
-			</CommerceChangeDoubleTimes>
-			<CommerceChangeOriginalOwners>
-				<bCommerceChangeOriginalOwner>0</bCommerceChangeOriginalOwner>
-				<bCommerceChangeOriginalOwner>0</bCommerceChangeOriginalOwner>
-				<bCommerceChangeOriginalOwner>1</bCommerceChangeOriginalOwner>
-			</CommerceChangeOriginalOwners>
-			<BonusProductionModifiers>
-				<BonusProductionModifier>
-					<BonusType>BONUS_MARBLE</BonusType>
-					<iProductonModifier>100</iProductonModifier>
-				</BonusProductionModifier>
-			</BonusProductionModifiers>
-			<ReligionYieldChanges>
-				<iYield>0</iYield>
-				<iYield>2</iYield>
-			</ReligionYieldChanges>
-			<Flavors>
-				<Flavor>
-					<FlavorType>FLAVOR_PRODUCTION</FlavorType>
-					<iFlavor>10</iFlavor>
-				</Flavor>
-			</Flavors>
-		</BuildingInfo>
-		<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_NOTRE_DAME</BuildingClass>
 			<Type>BUILDING_NOTRE_DAME</Type>
 			<Description>TXT_KEY_BUILDING_NOTRE_DAME</Description>
@@ -8775,6 +8718,63 @@
 				<Flavor>
 					<FlavorType>FLAVOR_GOLD</FlavorType>
 					<iFlavor>3</iFlavor>
+				</Flavor>
+			</Flavors>
+		</BuildingInfo>
+		<BuildingInfo>
+			<BuildingClass>BUILDINGCLASS_HAGIA_SOPHIA</BuildingClass>
+			<Type>BUILDING_HAGIA_SOPHIA</Type>
+			<Description>TXT_KEY_BUILDING_HAGIA_SOPHIA</Description>
+			<Civilopedia>TXT_KEY_BUILDING_HAGIA_SOPHIA_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_HAGIA_SOPHIA_STRATEGY</Strategy>
+			<Advisor>ADVISOR_ECONOMY</Advisor>
+			<ArtDefineTag>ART_DEF_BUILDING_HAGIA_SOPHIA</ArtDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_HAGIA_SOPHIA</MovieDefineTag>
+			<StateReligion>RELIGION_ORTHODOXY</StateReligion>
+			<PrereqReligion>RELIGION_ORTHODOXY</PrereqReligion>
+			<MaxStartEra>ERA_MEDIEVAL</MaxStartEra>
+			<ObsoleteTech>TECH_STEAM_POWER</ObsoleteTech>
+			<PrereqTech>TECH_THEOLOGY</PrereqTech>
+			<GreatPeopleUnitClass>UNITCLASS_GREAT_ENGINEER</GreatPeopleUnitClass>
+			<iGreatPeopleRateChange>2</iGreatPeopleRateChange>
+			<bTeamShare>1</bTeamShare>
+			<bNukeImmune>1</bNukeImmune>
+			<iCost>500</iCost>
+			<iHurryCostModifier>100</iHurryCostModifier>
+			<iAdvancedStartCost>-1</iAdvancedStartCost>
+			<iMinAreaSize>-1</iMinAreaSize>
+			<iConquestProb>100</iConquestProb>
+			<iAsset>12</iAsset>
+			<fVisibilityPriority>1.0</fVisibilityPriority>
+			<ObsoleteSafeCommerceChanges>
+				<iCommerce>0</iCommerce>
+				<iCommerce>0</iCommerce>
+				<iCommerce>8</iCommerce>
+			</ObsoleteSafeCommerceChanges>
+			<CommerceChangeDoubleTimes>
+				<iCommerce>0</iCommerce>
+				<iCommerce>0</iCommerce>
+				<iCommerce>1000</iCommerce>
+			</CommerceChangeDoubleTimes>
+			<CommerceChangeOriginalOwners>
+				<bCommerceChangeOriginalOwner>0</bCommerceChangeOriginalOwner>
+				<bCommerceChangeOriginalOwner>0</bCommerceChangeOriginalOwner>
+				<bCommerceChangeOriginalOwner>1</bCommerceChangeOriginalOwner>
+			</CommerceChangeOriginalOwners>
+			<BonusProductionModifiers>
+				<BonusProductionModifier>
+					<BonusType>BONUS_MARBLE</BonusType>
+					<iProductonModifier>100</iProductonModifier>
+				</BonusProductionModifier>
+			</BonusProductionModifiers>
+			<ReligionYieldChanges>
+				<iYield>0</iYield>
+				<iYield>2</iYield>
+			</ReligionYieldChanges>
+			<Flavors>
+				<Flavor>
+					<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+					<iFlavor>10</iFlavor>
 				</Flavor>
 			</Flavors>
 		</BuildingInfo>

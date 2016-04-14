@@ -1553,11 +1553,11 @@ iZoroastrianMonastery, iZoroastrianShrine, iTriumphalArch, iOperaHouse, iTrading
 iIronWorks, iInterpol, iNationalPark, iRedCross, iGreatSphinx, iGreatLighthouse, iGreatCothon, iTerracottaArmy, iTempleOfArtemis,
 iPyramids, iHangingGardens, iOracle, iMoaiStatues, iIshtarGate, iColossus, iParthenon, iStatueOfZeus,
 iShwedagonPaya, iKhajuraho, iGreatLibrary, iMausoleumOfMaussollos, iFloatingGardens, iColosseum,
-iGreatWall, iTheodosianWalls, iMachuPicchu, iBorobudur, iGrandCanal, iHagiaSophia, iNotreDame, iTempleOfKukulkan, iHimejiCastle,
-iBlueMosque, iAngkorWat, iTopkapiPalace, iMezquita, iSistineChapel, iLeaningTower, iRedFort,
-iVersailles, iForbiddenPalace, iSpiralMinaret, iDomeOfTheRock, iSankore, iTajMahal, iSanMarcoBasilica, iPorcelainTower,
+iGreatWall, iTheodosianWalls, iMachuPicchu, iBorobudur, iGrandCanal, iNotreDame, iTempleOfKukulkan, iHimejiCastle,
+iBlueMosque, iAngkorWat, iTopkapiPalace, iLaMezquita, iHagiaSophia, iSistineChapel, iLeaningTower, iRedFort,
+iVersailles, iForbiddenPalace, iSpiralMinaret, iDomeOfTheRock, iUniversityofSankore, iTajMahal, iSanMarcoBasilica, iPorcelainTower,
 iStBasilsCathedral, iHarmandirSahib, iTrafalgarSquare, iBrandenburgGate, iStatueOfLiberty, iPentagon, iLubyanka, iWestminsterPalace, iMtRushmore,
-iEiffelTower, iEmpireStateBuilding, iCERN, iWembley, iGraceland, iCristoRedentor, iThreeGorgesDam, iHollywood, iUnitedNations, iCNTower, iSpaceElevator) = range(iNumBuildings)
+iEiffelTower, iEmpireStateBuilding, iCERNResearchComplex, iWembley, iGraceland, iCristoRedentor, iThreeGorgesDam, iHollywood, iUnitedNations, iCNTower, iSpaceElevator) = range(iNumBuildings)
 
 iBeginWonders = iGreatSphinx # different from DLL constant because that includes national wonders
 

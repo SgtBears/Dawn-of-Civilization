@@ -212,7 +212,7 @@ dWonderGoals = {
 	iMaya: (1, [iTempleOfKukulkan], True),
 	iKhmer: (0, [iAngkorWat], False),
 	iFrance: (2, [iNotreDame, iVersailles, iStatueOfLiberty, iEiffelTower], True),
-	iMali: (1, [iSankore], False),
+	iMali: (1, [iUniversityofSankore], False),
 	iItaly: (0, [iSanMarcoBasilica, iSistineChapel, iLeaningTower], True),
 	iMughals: (1, [iTajMahal, iRedFort, iHarmandirSahib], True),
 	iAmerica: (1, [iStatueOfLiberty, iEmpireStateBuilding, iPentagon, iUnitedNations], True),
@@ -984,7 +984,7 @@ def checkTurn(iGameTurn, iPlayer):
 		# second goal: build the University of Sankore and settle a great prophet in its city by 1500 AD
 		if isPossible(iMali, 1):
 			for city in utils.getCityList(iMali):
-				if city.isHasRealBuilding(iSankore) and city.getFreeSpecialistCount(iSpecialistGreatProphet) >= 1:
+				if city.isHasRealBuilding(iUniversityofSankore) and city.getFreeSpecialistCount(iSpecialistGreatProphet) >= 1:
 					win(iMali, 1)
 		
 		if iGameTurn == getTurnForYear(1500):
@@ -3402,7 +3402,7 @@ def getUHVHelp(iPlayer, iGoal):
 			bSankore = False
 			iProphets = 0
 			for city in utils.getCityList(iMali):
-				if city.isHasRealBuilding(iSankore):
+				if city.isHasRealBuilding(iUniversityofSankore):
 					bSankore = True
 					iProphets = city.getFreeSpecialistCount(iSpecialistGreatProphet)
 					break
