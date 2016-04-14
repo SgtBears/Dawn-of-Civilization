@@ -134,7 +134,7 @@
 			<DefaultBuilding>BUILDING_HARBOR</DefaultBuilding>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
-			<Type>BUILDINGCLASS_CUSTOM_HOUSE</Type>
+			<Type>BUILDINGCLASS_CUSTOMS_HOUSE</Type>
 			<Description>TXT_KEY_BUILDING_CUSTOMS_HOUSE</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
