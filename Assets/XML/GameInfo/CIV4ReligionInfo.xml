@@ -64,7 +64,7 @@
 				<iStateReligionCommerce>1</iStateReligionCommerce>
 			</StateReligionCommerces>
 			<Button>Art/Interface/Buttons/Religions/Orthodoxy.dds</Button>
-			<TechButton>Art/Interface/Buttons/TechTree/Theology.dds</TechButton>
+			<TechButton>Art/Interface/Buttons/Techs/Theology_Orthodoxy.dds</TechButton>
 			<GenericTechButton>,Art/Interface/Buttons/TechTree/Christianity.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,1,3</GenericTechButton>
 			<MovieFile>Art/Movies/Religion/Christianity/Chr_Found.nif</MovieFile>
 			<MovieSound>AS2D_BUILD_CHRISTIAN_MOVIE</MovieSound>
@@ -160,7 +160,7 @@
 				<iStateReligionCommerce>1</iStateReligionCommerce>
 			</StateReligionCommerces>
 			<Button>Art/Interface/Buttons/Religions/Islam.dds</Button>
-			<TechButton>Art/Interface/Buttons/TechTree/divine right.dds</TechButton>
+			<TechButton>Art/Interface/Buttons/TechTree/Islam.dds</TechButton>
 			<GenericTechButton>,Art/Interface/Buttons/TechTree/Islam.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,6,3</GenericTechButton>
 			<MovieFile>Art/Movies/Religion/Islam/Isl_Found.nif</MovieFile>
 			<MovieSound>AS2D_BUILD_ISLAMIC_MOVIE</MovieSound>
@@ -191,7 +191,7 @@
 				<iStateReligionCommerce>1</iStateReligionCommerce>
 			</StateReligionCommerces>
 			<Button>Art/Interface/Buttons/Religions/Hinduism.dds</Button>
-			<TechButton>Art/Interface/Buttons/TechTree/Meditation.dds</TechButton>
+			<TechButton>Art/Interface/Buttons/Techs/Meditation_Hindusim.dds</TechButton>
 			<GenericTechButton>,Art/Interface/Buttons/TechTree/Hinduism.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,2,3</GenericTechButton>
 			<MovieFile>Art/Movies/Religion/Hinduism/Hin_Found.nif</MovieFile>
 			<MovieSound>AS2D_BUILD_HINDU_MOVIE</MovieSound>
@@ -254,7 +254,7 @@
 				<iStateReligionCommerce>1</iStateReligionCommerce>
 			</StateReligionCommerces>
 			<Button>Art/Interface/Buttons/Religions/Confuscianism.dds</Button>
-			<TechButton>Art/Interface/Buttons/TechTree/mathematics.dds</TechButton>
+			<TechButton>Art/Interface/Buttons/Techs/Mathematics_Confucianism.dds</TechButton>
 			<GenericTechButton>,Art/Interface/Buttons/TechTree/Confucianism.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,7,3</GenericTechButton>
 			<MovieFile>Art/Movies/Religion/Confucianism/Con_Found.nif</MovieFile>
 			<MovieSound>AS2D_BUILD_CONFUCIAN_MOVIE</MovieSound>
@@ -286,7 +286,7 @@
 				<iStateReligionCommerce>1</iStateReligionCommerce>
 			</StateReligionCommerces>
 			<Button>Art/Interface/Buttons/Religions/Taoism.dds</Button>
-			<TechButton>Art/Interface/Buttons/TechTree/calendar.dds</TechButton>
+			<TechButton>Art/Interface/Buttons/Techs/Calender_Taoism.dds</TechButton>
 			<GenericTechButton>,Art/Interface/Buttons/TechTree/Taoism.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,3,3</GenericTechButton>
 			<MovieFile>Art/Movies/Religion/Taoism/Tao_Found.nif</MovieFile>
 			<MovieSound>AS2D_BUILD_TAOIST_MOVIE</MovieSound>
@@ -317,7 +317,7 @@
 				<iStateReligionCommerce>1</iStateReligionCommerce>
 			</StateReligionCommerces>
 			<Button>Art/Interface/Buttons/Religions/Zoroaster.dds</Button>
-			<TechButton>Art/Interface/Buttons/TechTree/monotheism.dds</TechButton>
+			<TechButton>Art/Interface/Buttons/Techs/Monotheism_Zoroastrianism.dds</TechButton>
 			<GenericTechButton>,Art/Interface/Buttons/TechTree/Confucianism.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,7,3</GenericTechButton>
 			<MovieFile>Art/Movies/Zoroastrianism/Tao_Found.nif</MovieFile>
 			<MovieSound>AS2D_BUILD_ZORO_MOVIE</MovieSound>

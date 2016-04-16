@@ -5461,7 +5461,7 @@
 					<bUnitAI>1</bUnitAI>
 				</UnitAI>
 			</UnitAIs>
-			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+			<PrereqTech>TECH_WHEEL</PrereqTech>
 			<BonusType>BONUS_HORSE</BonusType>
 			<iCost>30</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
@@ -5549,7 +5549,7 @@
 					<bUnitAI>1</bUnitAI>
 				</UnitAI>
 			</UnitAIs>
-			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+			<PrereqTech>TECH_WHEEL</PrereqTech>
 			<BonusType>BONUS_HORSE</BonusType>
 			<iCost>30</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
@@ -5638,7 +5638,7 @@
 					<bUnitAI>1</bUnitAI>
 				</UnitAI>
 			</UnitAIs>
-			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+			<PrereqTech>TECH_WHEEL</PrereqTech>
 			<BonusType>BONUS_HORSE</BonusType>
 			<iCost>30</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
@@ -5722,7 +5722,7 @@
 					<bUnitAI>1</bUnitAI>
 				</UnitAI>
 			</UnitAIs>
-			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+			<PrereqTech>TECH_WHEEL</PrereqTech>
 			<BonusType>BONUS_HORSE</BonusType>
 			<iCost>30</iCost>
 			<iAdvancedStartCost>100</iAdvancedStartCost>

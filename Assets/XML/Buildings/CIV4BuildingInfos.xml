@@ -4541,7 +4541,7 @@
 			<Strategy>TXT_KEY_BUILDING_JEWISH_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_JEWISH_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_JEWISH</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_JEWISH_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_JUDAISM</HolyCity>
 			<ReligionType>RELIGION_JUDAISM</ReligionType>
 			<GlobalReligionCommerce>RELIGION_JUDAISM</GlobalReligionCommerce>
@@ -4753,7 +4753,7 @@
 			<Strategy>TXT_KEY_BUILDING_ORTHODOX_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_ORTHODOX_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_ORTHODOX</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_ORTHODOX_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_ORTHODOXY</HolyCity>
 			<ReligionType>RELIGION_ORTHODOXY</ReligionType>
 			<GlobalReligionCommerce>RELIGION_ORTHODOXY</GlobalReligionCommerce>
@@ -4959,7 +4959,7 @@
 			<Strategy>TXT_KEY_BUILDING_CATHOLIC_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_CATHOLIC_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_CATHOLIC</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_CATHOLIC_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_CATHOLICISM</HolyCity>
 			<ReligionType>RELIGION_CATHOLICISM</ReligionType>
 			<GlobalReligionCommerce>RELIGION_CATHOLICISM</GlobalReligionCommerce>
@@ -5167,7 +5167,7 @@
 			<Strategy>TXT_KEY_BUILDING_PROTESTANT_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_PROTESTANT_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_PROTESTANT</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_PROTESTANT_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_PROTESTANTISM</HolyCity>
 			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
 			<GlobalReligionCommerce>RELIGION_PROTESTANTISM</GlobalReligionCommerce>
@@ -5373,7 +5373,7 @@
 			<Strategy>TXT_KEY_BUILDING_ISLAMIC_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_ISLAMIC_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_ISLAMIC</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_ISLAMIC_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_ISLAM</HolyCity>
 			<ReligionType>RELIGION_ISLAM</ReligionType>
 			<GlobalReligionCommerce>RELIGION_ISLAM</GlobalReligionCommerce>
@@ -5579,7 +5579,7 @@
 			<Strategy>TXT_KEY_BUILDING_HINDU_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_HINDU_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_HINDU</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_HINDU_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_HINDUISM</HolyCity>
 			<ReligionType>RELIGION_HINDUISM</ReligionType>
 			<GlobalReligionCommerce>RELIGION_HINDUISM</GlobalReligionCommerce>
@@ -5785,7 +5785,7 @@
 			<Strategy>TXT_KEY_BUILDING_BUDDHIST_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_BUDDHIST_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_BUDDHIST</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_BUDDHIST_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_BUDDHISM</HolyCity>
 			<ReligionType>RELIGION_BUDDHISM</ReligionType>
 			<GlobalReligionCommerce>RELIGION_BUDDHISM</GlobalReligionCommerce>
@@ -5991,7 +5991,7 @@
 			<Strategy>TXT_KEY_BUILDING_CONFUCIAN_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_CONFUCIAN_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_CONFUCIAN</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_CONFUCIAN_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_CONFUCIANISM</HolyCity>
 			<ReligionType>RELIGION_CONFUCIANISM</ReligionType>
 			<GlobalReligionCommerce>RELIGION_CONFUCIANISM</GlobalReligionCommerce>
@@ -6197,7 +6197,7 @@
 			<Strategy>TXT_KEY_BUILDING_TAOIST_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_TAOIST_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_TAOIST</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_TAOIST_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_TAOISM</HolyCity>
 			<ReligionType>RELIGION_TAOISM</ReligionType>
 			<GlobalReligionCommerce>RELIGION_TAOISM</GlobalReligionCommerce>
@@ -6403,7 +6403,7 @@
 			<Strategy>TXT_KEY_BUILDING_ZOROASTRIAN_SHRINE_STRATEGY</Strategy>
 			<Advisor>ADVISOR_RELIGION</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_ZOROASTRIAN_SHRINE</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_SHRINE_PROTESTANT</MovieDefineTag>
+			<MovieDefineTag>ART_DEF_MOVIE_PROTESTANT_SHRINE</MovieDefineTag>
 			<HolyCity>RELIGION_ZOROASTRIANISM</HolyCity>
 			<ReligionType>RELIGION_ZOROASTRIANISM</ReligionType>
 			<GlobalReligionCommerce>RELIGION_ZOROASTRIANISM</GlobalReligionCommerce>
@@ -6705,7 +6705,6 @@
 			<Strategy>TXT_KEY_BUILDING_OLYMPIC_PARK_STRATEGY</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_OLYMPIC_PARK</ArtDefineTag>
-			<MovieDefineTag>ART_DEF_MOVIE_OLYMPIC_PARK</MovieDefineTag>
 			<PrereqTech>TECH_NATIONALISM</PrereqTech>
 			<GreatPeopleUnitClass>UNITCLASS_GREAT_MERCHANT</GreatPeopleUnitClass>
 			<iGreatPeopleRateChange>1</iGreatPeopleRateChange>

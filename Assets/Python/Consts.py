@@ -1482,7 +1482,7 @@ lProtestantStart = [iNetherlands, iGermany, iAmerica]
 iNumTechs = 93
 (iMysticism, iMeditation, iPolytheism, iPriesthood, iMonotheism, iMonarchy, iLiterature, iCodeOfLaws, iDrama, iFeudalism,
 iTheology, iMusic, iCivilService, iGuilds, iDivineRight, iPatronage, iNationalism, iMilitaryTradition, iConstitution, iLiberalism,
-iDemocracy, iCorporation, iFascism, iCommunism, iMassMedia, iEcology, iFishing, iTheWheel, iAgriculture, iPottery,
+iDemocracy, iCorporation, iFascism, iCommunism, iMassMedia, iEcology, iFishing, iWheel, iAgriculture, iPottery,
 iAesthetics, iSailing, iWriting, iMathematics, iAlphabet, iCalendar, iCurrency, iPhilosophy, iPaper, iBanking, 
 iEducation, iPrintingPress, iEconomics, iAstronomy, iChemistry, iScientificMethod, iPhysics, iBiology, iMedicine, iElectricity,
 iCombustion, iFission, iFlight, iAdvancedFlight, iPlastics, iComposites, iStealth, iGenetics, iFiberOptics, iFusion,
@@ -1647,7 +1647,7 @@ mercRegions = {
 #Projects
 
 iNumProjects = 11
-(iManhattanProject, iTheInternet, iSDI, iApolloProgram, iSSCockpit, iSSLifeSupport, iSSStasisChamber, iSSDockingBay,
+(iManhattanProject, iInternet, iSDI, iApolloProgram, iSSCockpit, iSSLifeSupport, iSSStasisChamber, iSSDockingBay,
 iSSEngine, iSSCasing, iSSThrusters) = range(iNumProjects)
 
 

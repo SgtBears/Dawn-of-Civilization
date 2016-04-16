@@ -9,7 +9,7 @@ BeginGame
 	ModPath=Mods\RFC Dawn of Civilization
 EndGame
 BeginTeam                 
-	Tech=TECH_THE_WHEEL                 
+	Tech=TECH_WHEEL                 
 	Tech=TECH_AGRICULTURE                 
 EndTeam
 BeginTeam                 
@@ -18,14 +18,14 @@ BeginTeam
 EndTeam
 BeginTeam                 
 	Tech=TECH_AGRICULTURE                 
-	Tech=TECH_THE_WHEEL
+	Tech=TECH_WHEEL
 	Tech=TECH_ANIMAL_HUSBANDRY
 	Tech=TECH_POTTERY
 	Tech=TECH_ARCHERY
 EndTeam
 BeginTeam
 	Tech=TECH_AGRICULTURE
-	Tech=TECH_THE_WHEEL
+	Tech=TECH_WHEEL
 EndTeam
 BeginTeam
 EndTeam
