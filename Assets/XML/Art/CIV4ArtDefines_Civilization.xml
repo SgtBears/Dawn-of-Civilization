@@ -19,6 +19,12 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_ARGENTINA</Type>
+			<Button>Art/Interface/Buttons/Civilizations/Argentina.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Argentina.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_AZTEC</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Aztec.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,3,5</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Serpent.dds</Path>
@@ -28,6 +34,12 @@
 			<Type>ART_DEF_CIVILIZATION_BABYLON</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Babylonia.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,8,1</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Lamassu.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_BRAZIL</Type>
+			<Button>Art/Interface/Buttons/Civilizations/Brazil.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Globe.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
@@ -58,6 +70,12 @@
 			<Type>ART_DEF_CIVILIZATION_CHINA</Type>
 			<Button>Art/Interface/Buttons/Civilizations/China.dds</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Dragon3.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_COLOMBIA</Type>
+			<Button>Art/Interface/Buttons/Civilizations/Colombia.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Colombia.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
@@ -97,6 +115,12 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_HARAPPANS</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Harappa.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Indus.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_HOLY_ROMAN</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Russia.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,4,4</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_HolyRomanEmpire.dds</Path>
@@ -115,6 +139,24 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_INDONESIA</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Indonesia.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_SuryaMajapahit.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_IRAN</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Iran.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Safavid_Lion2.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_ITALY</Type>
+			<Button>Art/Interface/Buttons/Civilizations/Italy.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Lion_of_Marc.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_JAPAN</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Japan.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,3,6</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_RisingSun2_I.dds</Path>
@@ -124,6 +166,12 @@
 			<Type>ART_DEF_CIVILIZATION_KHMER</Type>
 			<Button>Art/Interface/Buttons/Civilizations/Khmer.dds</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Cambodia.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_CONGO</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Kongo.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Kongo.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
@@ -145,9 +193,27 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MEXICO</Type>
+			<Button>Art/Interface/Buttons/Civilizations/Mexico.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_GoldenEagle.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_MONGOL</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Mongolia.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,5,6</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_SoyomboTop.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MOORS</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Moors.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Moon.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_MUGHALS</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Mughals.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Mughals.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
@@ -169,15 +235,27 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_PORTUGAL</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Portugal.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,1,5</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Escudo.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_PERSIA</Type>
 			<Button>Art/Interface/Buttons/Civilizations/Persia2.dds</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Achaemenid.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_POLAND</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Poland.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Poland.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_POLYNESIA</Type>
+			<Button>Art/Interface/Buttons/Civilizations/Polynesia.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Flower.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_PORTUGAL</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Portugal.dds,Art/Interface/Buttons/Beyond the Sword_Atlas.dds,1,5</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Escudo.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
@@ -193,6 +271,12 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_SELJUK</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Seljuks.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Bow.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
 			<Type>ART_DEF_CIVILIZATION_SPAIN</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Spain.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,1,6</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Castle4.dds</Path>
@@ -202,6 +286,24 @@
 			<Type>ART_DEF_CIVILIZATION_SUMERIA</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/India.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,2,5</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Sumeria.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_TAMILS</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Tamils.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Tamil.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_THAILAND</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/thailand.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Garuda.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_TIBET</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Tibet.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Tibet.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
@@ -238,108 +340,6 @@
 			<Type>ART_DEF_CIVILIZATION_BARBARIAN</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Barbarian.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,4,5</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Skull2.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_ITALY</Type>
-			<Button>Art/Interface/Buttons/Civilizations/Italy.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Lion_of_Marc.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_INDONESIA</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Indonesia.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_SuryaMajapahit.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_THAILAND</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/thailand.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Garuda.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_MUGHALS</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Mughals.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Mughals.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_SELJUK</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Seljuks.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Bow.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_IRAN</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Iran.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Safavid_Lion2.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_MOORS</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Moors.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Moon.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_TAMILS</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Tamils.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Tamil.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_TIBET</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Tibet.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Tibet.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_POLAND</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Poland.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Poland.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_HARAPPANS</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Harappa.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Indus.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_CONGO</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Kongo.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Kongo.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_MEXICO</Type>
-			<Button>Art/Interface/Buttons/Civilizations/Mexico.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_GoldenEagle.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_BRAZIL</Type>
-			<Button>Art/Interface/Buttons/Civilizations/Brazil.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Globe.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_ARGENTINA</Type>
-			<Button>Art/Interface/Buttons/Civilizations/Argentina.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Argentina.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_COLOMBIA</Type>
-			<Button>Art/Interface/Buttons/Civilizations/Colombia.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Colombia.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_POLYNESIA</Type>
-			<Button>Art/Interface/Buttons/Civilizations/Polynesia.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Flower.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 	</CivilizationArtInfos>
