@@ -503,7 +503,7 @@ class CvPediaMain( CvPediaScreen.CvPediaScreen ):
 			tList.pop(con.iCivSumeria)
 			tList.pop(con.iCivNativeAmericans)
 			tList.pop(con.iCivSeljuks)
-		       	tList.pop(con.iCivCelt) #celts
+		       	tList.pop(con.iCivCeltia) #celts
 			pass
 		if (widgeyType == WidgetTypes.WIDGET_PEDIA_JUMP_TO_BUILDING): #all -3 because there aren't palaces in the list
 			#removed in CvPediaBuilding.py

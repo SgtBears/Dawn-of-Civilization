@@ -994,14 +994,6 @@
 		</LeaderheadArtInfo>
 		<!-- Other -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_CIXI</Type>
-			<Button>Art/leaderheads/Cixi/Btn_LH_Cixi.dds</Button>
-			<NIF>Art/leaderheads/Cixi/Cixi.nif</NIF>
-			<KFM>Art/leaderheads/Cixi/asoka.kfm</KFM>
-			<NoShaderNIF/>
-			<BackgroundKFM>Art/leaderheads/Cixi/asoka_bg.kfm</BackgroundKFM>
-		</LeaderheadArtInfo>
-		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_SITTING_BULL</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_Aztec_Montezuma.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,3,2</Button>
 			<NIF>art/LeaderHeads/Sitting Bull/Sitting Bull.nif</NIF>

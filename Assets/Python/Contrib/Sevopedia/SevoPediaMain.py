@@ -570,7 +570,7 @@ class SevoPediaMain(CvPediaScreen.CvPediaScreen):
 		self.placeItems(WidgetTypes.WIDGET_PEDIA_JUMP_TO_CIV, gc.getCivilizationInfo)
 	
 	def getCivilizationList(self):
-		lExceptions = [con.iCivCelt, con.iCivNativeAmericans, con.iCivSeljuks, con.iCivSumeria, con.iCivZulu, con.iCivIndependent, con.iCivIndependent2, con.iCivNative, con.iCivMinor, con.iCivBarbarian]
+		lExceptions = [con.iCivCeltia, con.iCivNativeAmericans, con.iCivSeljuks, con.iCivSumeria, con.iCivZulu, con.iCivIndependent, con.iCivIndependent2, con.iCivNative, con.iCivMinor, con.iCivBarbarian]
 		return self.getSortedList(gc.getNumCivilizationInfos(), gc.getCivilizationInfo, False, lExceptions)
 		
 	def placeLeaders(self):
