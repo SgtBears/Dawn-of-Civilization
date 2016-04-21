@@ -321,7 +321,7 @@
 		<English>[COLOR_UNIT_TEXT]Cuirassiers[COLOR_REVERT] don't receive defensive bonuses, can withdraw from combat and has a flank attack against [COLOR_UNIT_TEXT]Catapult[COLOR_REVERT], [COLOR_UNIT_TEXT]Trebuchet[COLOR_REVERT], [COLOR_UNIT_TEXT]Bombard[COLOR_REVERT] and [COLOR_UNIT_TEXT]Cannon[COLOR_REVERT] units.</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_UNIT_EGYPTIAN_WARCHARIOT</Tag>
+		<Tag>TXT_KEY_UNIT_EGYPTIAN_WAR_CHARIOT</Tag>
 		<English>War Chariot</English>
 		<French>
 			<Text>Char de guerre</Text>
@@ -345,7 +345,7 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_UNIT_EGYPTIAN_WARCHARIOT_STRATEGY</Tag>
+		<Tag>TXT_KEY_UNIT_EGYPTIAN_WAR_CHARIOT_STRATEGY</Tag>
 		<English>The [COLOR_UNIT_TEXT]War Chariot[COLOR_REVERT], the Egyptian replacement for the [COLOR_UNIT_TEXT]Chariot[COLOR_REVERT], has an additional strength point, is immune to first strikes and has double movement in Desert.</English>
 	</TEXT>
 	<TEXT>

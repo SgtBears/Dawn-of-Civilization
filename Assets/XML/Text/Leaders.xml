@@ -153,10 +153,6 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_CHIANG_KAISHEK</Tag>
-		<English>Chiang Kai-Shek</English>
-	</TEXT>
-	<TEXT>
 		<Tag>TXT_KEY_LEADER_CIXI</Tag>
 		<English>Cixi</English>
 	</TEXT>
@@ -167,10 +163,6 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_DOM_PEDRO</Tag>
 		<English>Pedro II</English>
-	</TEXT>
-	<TEXT>
-		<Tag>TXT_KEY_LEADER_ELISHAT</Tag>
-		<English>Elishat</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_FILIPE</Tag>

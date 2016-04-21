@@ -999,10 +999,6 @@
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_ELISHAT</LeaderType>
-							<bLeaderType>1</bLeaderType>
-						</Leader>
-						<Leader>
 							<LeaderType>LEADER_FILIPE</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
