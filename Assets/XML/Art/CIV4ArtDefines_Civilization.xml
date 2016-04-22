@@ -19,13 +19,13 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_BABYLON</Type>
+			<Type>ART_DEF_CIVILIZATION_BABYLONIA</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Babylonia.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,8,1</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Lamassu.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_HARAPPANS</Type>
+			<Type>ART_DEF_CIVILIZATION_HARAPPA</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Harappa.dds</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Indus.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
@@ -103,7 +103,7 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_VIKING</Type>
+			<Type>ART_DEF_CIVILIZATION_VIKINGS</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Viking.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,1,1</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Raven.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
@@ -157,7 +157,7 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_HOLY_ROMAN</Type>
+			<Type>ART_DEF_CIVILIZATION_HOLY_ROME</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Russia.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,4,4</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_HolyRomanEmpire.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
@@ -199,13 +199,13 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_MONGOL</Type>
+			<Type>ART_DEF_CIVILIZATION_MONGOLIA</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Mongolia.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,5,6</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_SoyomboTop.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_AZTEC</Type>
+			<Type>ART_DEF_CIVILIZATION_AZTECS</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Aztec.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,3,5</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Serpent.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
@@ -217,7 +217,7 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_OTTOMAN</Type>
+			<Type>ART_DEF_CIVILIZATION_TURKEY</Type>
 			<Button>,Art/Interface/Buttons/Civilizations/Turkey.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,2,1</Button>
 			<Path>Art/Interface/TeamColor/FlagDECAL_Tugra.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
@@ -289,15 +289,9 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_CELT</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Celtia.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,3,1</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_CelticCross.dds</Path>
-			<bWhiteFlag>0</bWhiteFlag>
-		</CivilizationArtInfo>
-		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_SELJUK</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Seljuks.dds</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_Bow.dds</Path>
+			<Type>ART_DEF_CIVILIZATION_INDEPENDENT</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Independent.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,7,1</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_X.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
@@ -307,9 +301,15 @@
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>
-			<Type>ART_DEF_CIVILIZATION_INDEPENDENT</Type>
-			<Button>,Art/Interface/Buttons/Civilizations/Independent.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,7,1</Button>
-			<Path>Art/Interface/TeamColor/FlagDECAL_X.dds</Path>
+			<Type>ART_DEF_CIVILIZATION_CELTIA</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Celtia.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,3,1</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_CelticCross.dds</Path>
+			<bWhiteFlag>0</bWhiteFlag>
+		</CivilizationArtInfo>
+		<CivilizationArtInfo>
+			<Type>ART_DEF_CIVILIZATION_SELJUKS</Type>
+			<Button>,Art/Interface/Buttons/Civilizations/Seljuks.dds</Button>
+			<Path>Art/Interface/TeamColor/FlagDECAL_Bow.dds</Path>
 			<bWhiteFlag>0</bWhiteFlag>
 		</CivilizationArtInfo>
 		<CivilizationArtInfo>

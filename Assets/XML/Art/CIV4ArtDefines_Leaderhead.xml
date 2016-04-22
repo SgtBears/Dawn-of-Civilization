@@ -49,7 +49,7 @@
 			<BackgroundKFM>art/LeaderHeads/Qin_Shi_Huang/qin_shi_huang_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_TAIZONG</Type>
+			<Type>ART_DEF_LEADER_TANG_TAIZONG</Type>
 			<Button>Art/leaderheads/Taizong/Taizong.dds</Button>
 			<NIF>art/leaderheads/Taizong/mao_tse_tung.nif</NIF>
 			<KFM>art/leaderheads/Taizong/mao_tse_tung.kfm</KFM>
@@ -65,7 +65,7 @@
 			<BackgroundKFM>Art/Leaderheads/Hongwu/Tachnechobrus_Background.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_CHINESE_LEADER</Type>
+			<Type>ART_DEF_LEADER_MAO_ZEDONG</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_China_MaoZedong.dds,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,7,11</Button>
 			<NIF>art/LeaderHeads/Mao/Mao_tse_tung.nif</NIF>
 			<KFM>art/LeaderHeads/Mao/Mao_tse_tung.kfm</KFM>
@@ -74,7 +74,7 @@
 		</LeaderheadArtInfo>
 		<!-- Babylonia -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_GILGAMESH</Type>
+			<Type>ART_DEF_LEADER_SARGON</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_Persia_Cyrus.dds,Art/Interface/Buttons/Beyond_the_Sword_Atlas.dds,5,1</Button>
 			<NIF>art/LeaderHeads/Gilgamesh/Gilgamesh.nif</NIF>
 			<KFM>art/LeaderHeads/Gilgamesh/Gilgamesh.kfm</KFM>
@@ -318,7 +318,7 @@
 			<NoShaderNIF>Art/leaderheads/Meiji/Meiji.nif</NoShaderNIF>
 			<BackgroundKFM>Art/leaderheads/Meiji/Meiji_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
-		<!-- Viking -->
+		<!-- Vikings -->
 		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_RAGNAR</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_America_Washington.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,7,7</Button>
@@ -745,7 +745,7 @@
 			<NoShaderNIF>art/LeaderHeads/Bhutto/Bhutto.nif</NoShaderNIF>
 			<BackgroundKFM>art/LeaderHeads/Bhutto/Bhutto_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
-		<!-- Ottoman -->
+		<!-- Turkey -->
 		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_MEHMED</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_America_Washington.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,2,8</Button>
@@ -965,7 +965,7 @@
 			<NoShaderNIF>art/LeaderHeads/trudeau/alexander.nif</NoShaderNIF>
 			<BackgroundKFM>art/LeaderHeads/trudeau/alexander_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
-		<!-- Celts -->
+		<!-- Celtia -->
 		<LeaderheadArtInfo>
 			<Type>ART_DEF_LEADER_BRENNUS</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_America_Washington.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,5,7</Button>

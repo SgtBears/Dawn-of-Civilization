@@ -117,7 +117,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_TAIZONG
+	LeaderType=LEADER_TANG_TAIZONG
 	CivType=CIVILIZATION_CHINA                 
 	Team=1                 
 	PlayableCiv=1                       
@@ -137,7 +137,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_VATAVELLI
-	CivType=CIVILIZATION_HARAPPANS
+	CivType=CIVILIZATION_HARAPPA
 	Team=3
 	PlayableCiv=0
 	Handicap=HANDICAP_REGENT
@@ -241,7 +241,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_RAGNAR
-	CivType=CIVILIZATION_VIKING                 
+	CivType=CIVILIZATION_VIKINGS                 
 	Team=16                 
 	PlayableCiv=1                       
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DYNASTICISM	
@@ -347,7 +347,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_BARBAROSSA
-	CivType=CIVILIZATION_HOLY_ROMAN               
+	CivType=CIVILIZATION_HOLY_ROME               
 	Team=25                 
 	PlayableCiv=1                      
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_THEOCRACY	
@@ -433,7 +433,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_GENGHIS_KHAN
-	CivType=CIVILIZATION_MONGOL                 
+	CivType=CIVILIZATION_MONGOLIA                 
 	Team=32               
 	PlayableCiv=1                       
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DYNASTICISM	
@@ -443,7 +443,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_MONTEZUMA
-	CivType=CIVILIZATION_AZTEC                 
+	CivType=CIVILIZATION_AZTECS                 
 	Team=33               
 	PlayableCiv=1                      
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DYNASTICISM
@@ -466,7 +466,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_MEHMED
-	CivType=CIVILIZATION_OTTOMAN                 
+	CivType=CIVILIZATION_TURKEY                 
 	Team=35             
 	PlayableCiv=1                      
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DYNASTICISM	
@@ -618,7 +618,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_ALP
-	CivType=CIVILIZATION_SELJUK
+	CivType=CIVILIZATION_SELJUKS
 	StateReligion=RELIGION_ISLAM
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_THEOCRACY
 	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_SLAVERY

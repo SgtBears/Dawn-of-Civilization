@@ -175,7 +175,7 @@
 		<English>Royal Mounted Police</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_BUILDING_CAR_EMBASSY</Tag>
+		<Tag>TXT_KEY_BUILDING_PHO_EMBASSY</Tag>
 		<English>Carthaginian Embassy</English>
 		<French>Ambassade carthaginoise</French>
 		<German>Karthagische Botschaft</German>
@@ -915,8 +915,16 @@
 		<English>[COLOR_BUILDING_TEXT]Pagan Temples[COLOR_REVERT] provide a small amount of culture.</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_BUILDING_OTTOMAN_HAMMAM_STRATEGY</Tag>
-		<English>The [COLOR_BUILDING_TEXT]Hammam[COLOR_REVERT], the Ottoman replacement for the [COLOR_BUILDING_TEXT]Aqueduct[COLOR_REVERT], increases a city's happiness.</English>
+		<Tag>TXT_KEY_BUILDING_TURKISH_HAMMAM</Tag>
+		<English>Hammam</English>
+		<French>Hammam</French>
+		<German>Hamam</German>
+		<Italian>Hammam</Italian>
+		<Spanish>Hammam:Hammams</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TURKISH_HAMMAM_STRATEGY</Tag>
+		<English>The [COLOR_BUILDING_TEXT]Hammam[COLOR_REVERT], the Turkish replacement for the [COLOR_BUILDING_TEXT]Aqueduct[COLOR_REVERT], increases a city's happiness.</English>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUILDING_ORTHODOX_MONASTERY</Tag>

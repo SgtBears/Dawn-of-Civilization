@@ -140,7 +140,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_VATAVELLI
-	CivType=CIVILIZATION_HARAPPANS
+	CivType=CIVILIZATION_HARAPPA
 	Team=3
 	PlayableCiv=0
 	Handicap=HANDICAP_REGENT
@@ -268,7 +268,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_GUSTAV
-	CivType=CIVILIZATION_VIKING   
+	CivType=CIVILIZATION_VIKINGS   
 	CivDesc=TXT_KEY_CIV_SWEDEN_DESC
 	CivShortDesc=TXT_KEY_CIV_SWEDEN_SHORT_DESC
 	CivAdjective=TXT_KEY_CIV_SWEDEN_ADJECTIVE
@@ -367,7 +367,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_FRANCIS
-	CivType=CIVILIZATION_HOLY_ROMAN    
+	CivType=CIVILIZATION_HOLY_ROME    
 	CivDesc=TXT_KEY_CIV_AUSTRIA_DESC
 	CivShortDesc=TXT_KEY_CIV_AUSTRIA_SHORT_DESC
 	CivAdjective=TXT_KEY_CIV_AUSTRIA_ADJECTIVE
@@ -449,14 +449,14 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_GENGHIS_KHAN
-	CivType=CIVILIZATION_MONGOL                 
+	CivType=CIVILIZATION_MONGOLIA                 
 	Team=32               
 	PlayableCiv=0                             
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_MONTEZUMA
-	CivType=CIVILIZATION_AZTEC                 
+	CivType=CIVILIZATION_AZTECS                 
 	Team=33               
 	PlayableCiv=0              
 	Handicap=HANDICAP_REGENT                 
@@ -477,7 +477,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_SULEIMAN
-	CivType=CIVILIZATION_OTTOMAN                 
+	CivType=CIVILIZATION_TURKEY                 
 	Team=35             
 	PlayableCiv=1                      
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DYNASTICISM	
@@ -635,7 +635,7 @@ BeginPlayer
 EndPlayer
 BeginPlayer
 	LeaderType=LEADER_ALP
-	CivType=CIVILIZATION_SELJUK
+	CivType=CIVILIZATION_SELJUKS
 	StateReligion=RELIGION_ISLAM
 	Team=48
 	PlayableCiv=0
@@ -23750,7 +23750,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -25623,7 +25623,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -27343,7 +27343,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -29450,14 +29450,14 @@ BeginPlot
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
 		UnitAIType=UNITAI_ATTACK
 	EndUnit
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -30486,7 +30486,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -30550,7 +30550,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -31158,7 +31158,7 @@ BeginPlot
 		BuildingType=BUILDING_BARRACKS
 		BuildingType=BUILDING_GRANARY
 		BuildingType=BUILDING_SMOKEHOUSE
-		BuildingType=BUILDING_OTTOMAN_HAMMAM
+		BuildingType=BUILDING_TURKISH_HAMMAM
 		BuildingType=BUILDING_LIGHTHOUSE
 		BuildingType=BUILDING_HARBOR
 		BuildingType=BUILDING_CUSTOMS_HOUSE
@@ -31558,7 +31558,7 @@ BeginPlot
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -31604,7 +31604,7 @@ BeginPlot
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -32734,7 +32734,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -33676,7 +33676,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -34268,7 +34268,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -34722,7 +34722,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -34830,7 +34830,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -35197,7 +35197,7 @@ BeginPlot
 	TerrainType=TERRAIN_PLAINS
 	PlotType=1
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4
@@ -35729,7 +35729,7 @@ BeginPlot
 	TerrainType=TERRAIN_DESERT
 	PlotType=2
 	BeginUnit
-		UnitType=UNIT_OTTOMAN_JANISSARY, UnitOwner=35
+		UnitType=UNIT_TURKISH_JANISSARY, UnitOwner=35
 		Damage=0
 		Level=1, Experience=0
 		FacingDirection=4

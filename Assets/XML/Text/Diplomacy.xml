@@ -10,6 +10,126 @@
 		<English>This will be of mutual benefit for us both, don't you think so?</English>
 	</TEXT>
 	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MAO_ZEDONG_1</Tag>
+		<English>Greetings, [CT_NAME]. It is a pleasure to meet you. Here: have a copy of my little red book. You might learn something.</English>
+		<French>Bonjour, [CT_NAME]. C'est un plaisir de vous rencontrer. Tenez, je vous offre un exemplaire de mon petit livre rouge. Vous y apprendrez peut-&#234;tre quelque chose.</French>
+		<German>Seid gegr&#252;&#223;t, [CT_NAME]. Ich freue mich, Eure Bekanntschaft zu machen. Hier, nehmt diese Abschrift meines kleinen roten Leitfadens. Ihr k&#246;nntet noch etwas lernen!</German>
+		<Italian>Saluti, [CT_NAME]. &#200; un piacere incontrarti. Ecco una copia del mio piccolo libro rosso. Potresti imparare qualcosa.</Italian>
+		<Spanish>Saludos, [CT_NAME]. Es un placer conoceros. Tomad un ejemplar de mi libro rojo. Puede que aprend&#225;is algo y todo.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_MAO_ZEDONG_1</Tag>
+		<English>[OUR_CIV_SHORT] will not listen to your bourgoise lies!</English>
+		<French>Les [OUR_CIV_SHORT] n'&#233;couteront pas vos mensonges !</French>
+		<German>Das Volk von [OUR_CIV_SHORT] wird Euren kleinb&#252;rgerlichen L&#252;gen kein Geh&#246;r schenken!</German>
+		<Italian>[OUR_CIV_SHORT:1] non ascolter&#224; le tue menzogne borghesi.</Italian>
+		<Spanish>&#161;[OUR_CIV_SHORT] no escuchar&#225; vuestras mentiras burguesas!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_MAO_ZEDONG_1</Tag>
+		<English>There can never be peace in the unending war between the people and the bloodsucking bourgoise capitalist opressors who seek to enslave them! That would be you, punk.</English>
+		<French>Il ne pourra jamais y avoir de paix entre le peuple et les oppresseurs capitalistes de la bourgeoisie qui le spolie et l'exploite ! Je parle de vous, imb&#233;cile.</French>
+		<German>Es kann niemals Frieden herrschen in dem endlosen Krieg zwischen dem einfachen Volk und den kapitalistischen Blutsaugern, die es versklaven wollen! Und damit seid Ihr gemeint, Dummkopf!</German>
+		<Italian>Non potr&#224; mai regnare la pace nell'infinita guerra tra il popolo e l'oppressore borghese capitalista che lo vuole dominare... E l'oppressore sei tu!</Italian>
+		<Spanish>&#161;Nunca habr&#225; paz en la interminable guerra entre el proletariado y los par&#225;sitos burgueses capitalistas que lo oprimen y quieren esclavizarlo! &#201;sos sois vosotros, escoria.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_MAO_ZEDONG_1</Tag>
+		<English>On behalf of the great and glorious Communist Party of China and of all of her horrible little peasants - I mean, "glorious workers" - greetings!</English>
+		<French>Au nom du glorieux Parti Communiste de Chine et de tous ses paysans incultes... heu, de tous ses "glorieux travailleurs"... je vous salue !</French>
+		<German>Im Namen der gro&#223;en ruhmreichen kommunistischen Partei Chinas und all ihrer einfallslosen kleinen Anh&#228;nger - &#228;h, ich meine "ehrenhaften Arbeiter" - Willkommen!</German>
+		<Italian>Un messaggio di benvenuto da parte del grande e glorioso Partito Comunista della Cina e dai suoi orridi contadini... volevo dire, "grandi lavoratori"!</Italian>
+		<Spanish>El grande y glorioso Partido Comunista Chino y todos sus horribles campesinos de pacotilla -quiero decir, "gloriosos trabajadores"- os dan la bienvenida.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_MAO_ZEDONG_1</Tag>
+		<English>It is people like you, [CT_NAME], who give ruthless dictators a bad name. Why are you here?</English>
+		<French>Ce sont les gens comme vous, [CT_NAME], qui entachent la r&#233;putation des impitoyables dictateurs. Que venez-vous faire ici ?</French>
+		<German>Es sind Menschen wie Ihr, [CT_NAME], die ruchlosen Diktatoren einen schlechten Ruf bescheren! Warum seid Ihr gekommen?</German>
+		<Italian>&#200; colpa tua, [CT_NAME], se i dittatori crudeli hanno una brutta reputazione. Perch&#233; sei qui?</Italian>
+		<Spanish>La gente como vos, [CT_NAME], es la que da mala fama a los dictadores implacables. &#191;A qu&#233; hab&#233;is venido?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MAO_ZEDONG_1</Tag>
+		<English>[CT_NAME], please give us the following immediately. Think of it as an investment in our continued friendship.</English>
+		<French>[CT_NAME], veuillez nous donner ceci imm&#233;diatement. Consid&#233;rez que c'est un investissement pour pr&#233;server notre belle amiti&#233;...</French>
+		<German>Bitte, kommt dieser Forderung umgehend nach, [CT_NAME]! Betrachtet es als Investition in unsere freundschaftlichen Beziehungen.</German>
+		<Italian>[CT_NAME], ti prego di fornirci subito questa risorsa. Prendila come un investimento perch&#233; la nostra amicizia continui indisturbata.</Italian>
+		<Spanish>[CT_NAME], dadnos por favor lo siguiente de inmediato. Consideradlo una inversi&#243;n para conservar nuestra amistad.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MAO_ZEDONG_1</Tag>
+		<English>Would you care to take part in our share-the-wealth program, [CT_NAME]?</English>
+		<French>Voulez-vous participer &#224; notre programme de partage des richesses, [CT_NAME] ?</French>
+		<German>Wollt Ihr nicht vielleicht an dem allseits beliebten "Wie werde ich reich"-Programm teilnehmen, [CT_NAME]?</German>
+		<Italian>Vorresti prendere parte al nostro progetto per la condivisione della ricchezza, [CT_NAME]?</Italian>
+		<Spanish>&#191;Os gustar&#237;a tomar parte en nuestro programa de reparto de riqueza, [CT_NAME]?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MAO_ZEDONG_1</Tag>
+		<English>For too long have the glorious [CT_CIV_ADJ] workers put up with your contemptible bourgoise insolence! It's time for an immediate redistribution of wealth!</English>
+		<French>Les glorieux travailleurs des [CT_CIV_ADJ] supportent depuis trop longtemps d&#233;j&#224; votre insolence de bourgeois ! Nous allons imm&#233;diatement redistribuer les richesses !</French>
+		<German>Die ruhmreichen [CT_CIV_ADJ:2] Arbeiter haben sich Eure ver&#228;chtlichen Unversch&#228;mtheiten schon viel zu lange gefallen lassen! Jetzt ist es an der Zeit, Euer Verm&#246;gen ein wenig umzuverteilen!</German>
+		<Italian>Per troppo tempo i gloriosi lavoratori [CT_CIV_ADJ:3] hanno dovuto sopportare la tua insolenza borghese! &#200; ora di ridistribuire la ricchezza!</Italian>
+		<Spanish>&#161;El glorioso proletariado [CT_CIV_ADJ:1] ha aguantado vuestras insolencias burguesas demasiado tiempo! &#161;Es hora de que se haga una redistribuci&#243;n inmediata de la riqueza!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CLEOPATRA_1</Tag>
+		<English>Surely the gods have smiled upon you, [CT_NAME] - for they have led you to me!</English>
+		<French>Les dieux sont avec vous, [CT_NAME], car ils vous ont fait venir jusqu'&#224; moi !</French>
+		<German>Ganz offensichtlich sind die G&#246;tter Euch gewogen, [CT_NAME] - denn sie haben Euch den Weg zu mir gewiesen!</German>
+		<Italian>Di certo gli dei ti sorridono, [CT_NAME], perch&#233; ti hanno indicato la strada che porta a me!</Italian>
+		<Spanish>Sin duda los dioses os sonr&#237;en, [CT_NAME], pues os han tra&#237;do hasta m&#237;.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_CLEOPATRA_1</Tag>
+		<English>Begone, you lying serpent!</English>
+		<French>Arri&#232;re, serpent &#224; la langue fourchue !</French>
+		<German>Hinfort, hinterh&#228;ltige Schlange!</German>
+		<Italian>Vattene, serpente velenoso!</Italian>
+		<Spanish>&#161;Fuera de aqu&#237;, serpiente mentirosa!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_CLEOPATRA_1</Tag>
+		<English>Gods do not negitiate with mortals - particularly with ugly little slimeballs such as yourself. Go back to your home to await your doom.</English>
+		<French>Les dieux ne n&#233;gocient pas avec les mortels, encore moins avec des cr&#233;tins aussi laids et aussi b&#234;tes que vous. Rentrez chez vous pour y attendre la mort.</French>
+		<German>Die G&#246;tter verhandeln nicht mit Sterblichen - vor allem nicht mit so gr&#228;sslichen kleinen Kriechern wie Euch! Geht nach Hause und stellt Euch Eurem Schicksal!</German>
+		<Italian>Gli dei non negoziano con i mortali, in particolar modo con gli esseri spregevoli come te. Torna a casa e attendi il tuo destino.</Italian>
+		<Spanish>Los dioses no negocian con los mortales, especialmente si son unos canallas desagradables como vosotros. Volved a casa y aguardad vuestra perdici&#243;n.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_CLEOPATRA_1</Tag>
+		<English>Hello again, [CT_NAME]. How honored you must be to see me once more.</English>
+		<French>Bonjour, [CT_NAME]. C'est tout &#224; votre honneur de revenir me voir.</French>
+		<German>Abermals willkommen, [CT_NAME]. Ihr m&#252;sst Euch doch sehr geehrt f&#252;hlen, mich wiedersehen zu d&#252;rfen, oder?</German>
+		<Italian>Salve ancora, [CT_NAME]. Per te dev'essere un onore vedermi di nuovo...</Italian>
+		<Spanish>Saludos de nuevo, [CT_NAME]. Qu&#233; gran honor debe de ser para vos volver a vernos.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CLEOPATRA_1</Tag>
+		<English>Bow before me, [CT_NAME] - a goddess deserves no less!</English>
+		<French>Inclinez-vous devant moi, [CT_NAME]... une d&#233;esse ne m&#233;rite pas moins !</French>
+		<German>Kniet nieder, [CT_NAME] - wie es einem gottgleichen Wesen wie mir geb&#252;hrt!</German>
+		<Italian>Inginocchiati al mio cospetto, [CT_NAME], &#232; il minimo che tu possa fare davanti a una divinit&#224;!</Italian>
+		<Spanish>Arrodillaos ante m&#237;, [CT_NAME]. &#161;Una diosa no se merece menos!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_CLEOPATRA_1</Tag>
+		<English>I was going to demand that you sacrifice 1000 warriors to my greatness, [CT_NAME], but if you prefer, you can give me this.</English>
+		<French>J'allais vous demander de sacrifier mille guerriers &#224; ma grandeur, [CT_NAME], mais vous pouvez me donner ceci si vous pr&#233;f&#233;rez.</French>
+		<German>Eigentlich wollte ich Euch auffordern, mir zu Ehren 1.000 Krieger zu opfern, [CT_NAME], aber wenn es Euch lieber ist, k&#246;nnt Ihr auch diese Alternative w&#228;hlen.</German>
+		<Italian>Stavo per chiederti di sacrificare 1.000 guerrieri per onorare la mia grandezza, [CT_NAME], ma se preferisci puoi darmi questo.</Italian>
+		<Spanish>Os iba a pedir que sacrificaseis 1.000 guerreros en mi honor, [CT_NAME], pero si lo prefer&#237;s, pod&#233;is darme esto.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_CLEOPATRA_1</Tag>
+		<English>It is customary for puny mortals to show their devotion by giving their goddess a gift. Or if they prefer they can be cut into small pieces and fed to the royal crocodiles.</English>
+		<French>Les mis&#233;rables mortels ont pour habitude d'offrir des pr&#233;sents &#224; leur d&#233;esse pour lui prouver leur d&#233;votion. Mais s'ils pr&#233;f&#232;rent, ils peuvent finir dans le ventre des crocodiles royaux...</French>
+		<German>Unbedeutende Sterbliche bringen ihren G&#246;ttern &#252;blicherweise Geschenke dar. Sollten sie sich jedoch weigern, werden sie in kleinen H&#228;ppchen an die k&#246;niglichen Krokodile verf&#252;ttert!</German>
+		<Italian>I comuni mortali solitamente offrono dei doni alle proprie divinit&#224;. Oppure, se preferiscono, possono essere fatti a pezzi e dati in pasto ai coccodrilli reali.</Italian>
+		<Spanish>Es costumbre que los insignificantes mortales muestren su devoci&#243;n haci&#233;ndole un presente a su diosa. O, si lo prefieren, se les puede cortar en pedacitos para dar de comer a los cocodrilos sagrados.</Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_RAGNAR_LODBROK_1</Tag>
 		<English>Hail and well met, [CT_NAME]! I am [OUR_NAME], ruler of the glorious [OUR_CIV_SHORT].  So tell me: does [CT_CIV_SHORT] have a lot of rich and unprotected coastal cities, or what?</English>
 		<French>Bonjour, [CT_NAME], c'est un vrai plaisir ! Je suis [OUR_NAME], chef des glorieux [OUR_CIV_SHORT]. Dites-moi : est-ce que [CT_CIV_SHORT] dispose de nombreuses villes c&#244;ti&#232;res riches et faiblement prot&#233;g&#233;es ?</French>
@@ -21,9 +141,9 @@
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_RAMESSES_II_1</Tag>
 		<English>Mighty [OUR_NAME], all-powerful god-king of [OUR_CIV_SHORT] welcomes you, [CT_NAME]! Feel free to grovel in terror and awe if the mood takes you.</English>
 		<French>[OUR_NAME], tout puissant roi et divinit&#233; des [OUR_CIV_SHORT], vous souhaite la bienvenue, [CT_NAME] ! N'h&#233;sitez pas &#224; vous prosterner devant moi ou &#224; vous &#233;taler &#224; mes pieds si le coeur vous en dit !</French>
-		<German>Ich, [OUR_NAME], allmächtiges Staatsoberhaupt des Volkes von [OUR_CIV_SHORT], heiße Euch willkommen, [CT_NAME]! Es steht Euch frei, ehrfürchtig vor mir niederzuknien, wenn Euch danach ist.</German>
+		<German>Ich, [OUR_NAME], allmÃ¤chtiges Staatsoberhaupt des Volkes von [OUR_CIV_SHORT], heiÃŸe Euch willkommen, [CT_NAME]! Es steht Euch frei, ehrfÃ¼rchtig vor mir niederzuknien, wenn Euch danach ist.</German>
 		<Italian>Il potente [OUR_NAME], onnipotente e divino leader [OUR_CIV_ADJ] ti d&#224; il benvenuto, [CT_NAME]! Prostrati pure in preda al terrore e alla meraviglia, se ne hai voglia.</Italian>
-		<Spanish>El gran [OUR_NAME], rey dios todopoderoso de [OUR_CIV_SHORT] os da la bienvenida, [CT_NAME]. Pod&#233;is postraros ante mí presa de un temor reverencial si se os antoja.</Spanish>
+		<Spanish>El gran [OUR_NAME], rey dios todopoderoso de [OUR_CIV_SHORT] os da la bienvenida, [CT_NAME]. Pod&#233;is postraros ante mÃ­ presa de un temor reverencial si se os antoja.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SAN_MARTIN</Tag>
@@ -90,11 +210,6 @@
 		<German>Willkommen, [CT_NAME]. Wir w&#252;rden Freundschaft mit Euch willkommen hei&#223;en. Giert Ihr nach Eroberungen, oder nach Frieden und Ruhe?</German>
 	</TEXT>
 	<TEXT>
-		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_CIXI_1</Tag>
-		<English>Greetings, I am [OUR_NAME], the most clever woman that ever lived, and others cannot compare with me. I have four billion people dependent on my judgement.</English>
-		<German>Gr&#252;&#223;e, ich bin [OUR_NAME], die kl&#252;gste Frau, die jemals gelebt hat, und andere halten keinem Vergleich mit mir stand. Ich habe vier Milliarden Menschen, die von meinem Urteil abh&#228;ngen.</German>
-	</TEXT>
-	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HAILE_SELASSIE_1</Tag>
 		<English>Greetings in the name of God, [CT_NAME] of [CT_CIV_SHORT]. We are Emperor [OUR_NAME] of [OUR_CIV_SHORT]. We know that material and spiritual progress are essential to man. Will you join us as we ceaselessly work for the equal attainment of both?</English>
 		<German>Gr&#252;&#223;e im Namen Gottes, [CT_NAME] von [CT_CIV_SHORT]. Wir sind Kaiser [OUR_NAME] von [OUR_CIV_SHORT]. Wir wissen, dass k&#246;rperlicher und spiritueller Fortschritt essentiell f&#252;r den Menschen sind. Werdet Ihr daran teilhaben, wie wir ununterbrochen f&#252;r das gleichzeitige Erlangen von beidem arbeiten?</German>
@@ -126,7 +241,7 @@
 		<English>Hello, [CT_NAME]. I am General Santa Anna, Savior of Mexico!  What have you come to offer me in tribute?</English>
 	</TEXT>
 	<TEXT>
-		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_TAIZONG_1</Tag>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_TANG_TAIZONG_1</Tag>
 		<English>Greetings [CT_NAME]. I am [OUR_NAME], emperor of all the lands below the heavens. With absolute power over numberless minions, do you dare hurt the divine ruler of mighty [OUR_CIV_SHORT].</English>
 	</TEXT>
 	<TEXT>
@@ -159,11 +274,6 @@
 		<German>Seid gegr??t, [CT_NAME]. Nehmt Platz und lasst uns ein wenig plaudern.</German>
 		<Italian>Salve, [CT_NAME]. Siediti e parliamo per un po'.</Italian>
 		<Spanish>Saludos, [CT_NAME]. Sentaos y charlemos un rato.</Spanish>
-	</TEXT>
-	<TEXT>
-		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_CIXI_1</Tag>
-		<English>Under heaven, people with righteousness are not murderers and arsonists like you.</English>
-		<German>Unter dem Himmel sind Menschen von Rechtschaffenheit keine M&#246;rder und Brandstifter wie Ihr.</German>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_HAILE_SELASSIE_1</Tag>
@@ -232,9 +342,9 @@
 		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_NATIVE_1</Tag>
 		<English>Your words are but the grunts of a diseased pig, [CT_NAME]. I do not hear them.</English>
 		<French>Vos paroles sonnent &#224; mes oreilles tels d'horribles grognements d'un porc agonisant, [CT_NAME]. Je ne les &#233;couterai pas plus longtemps.</French>
-		<German>Ihr sprecht mit gespaltener Zunge, [CT_NAME], und ich will es nicht hören!</German>
+		<German>Ihr sprecht mit gespaltener Zunge, [CT_NAME], und ich will es nicht hÃ¶ren!</German>
 		<Italian>Le tue parole risuonano come i grugniti di un maiale morente, [CT_NAME]. Un rumore fastidioso che non voglio udire.</Italian>
-		<Spanish>Vuestras palabras no son más que gruñidos de un cerdo enfermo, [CT_NAME]. Como tales, no las escucho.</Spanish>
+		<Spanish>Vuestras palabras no son mÃ¡s que gruÃ±idos de un cerdo enfermo, [CT_NAME]. Como tales, no las escucho.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_NATIVE_1</Tag>
@@ -242,7 +352,7 @@
 		<French>Donnez-moi ce que je demande, [CT_NAME], et peut-&#234;tre nos deux nations pourront-elles cohabiter en paix quelques temps encore.</French>
 		<German>Gebt uns, was wir verlangen, [CT_NAME], dann besteht die Chance, dass unsere Zivilisationen noch eine Weile in Frieden miteinander leben!</German>
 		<Italian>Dammi questo, [CT_NAME], e forse le nostre due nazioni vivranno in pace per un altro po'.</Italian>
-		<Spanish>Dadme esto, [CT_NAME], y es posible que nuestras naciones puedan vivir en paz un poco más.</Spanish>
+		<Spanish>Dadme esto, [CT_NAME], y es posible que nuestras naciones puedan vivir en paz un poco mÃ¡s.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_NATIVE_1</Tag>
@@ -250,53 +360,53 @@
 		<French>Donnez-nous ce tribut, [CT_NAME], et il est possible que je vous laisse vivre... quelques temps, en tout cas.</French>
 		<German>Her damit, [CT_NAME]! Dann werde ich Euch vielleicht noch eine Weile verschonen!</German>
 		<Italian>Dammelo, [CT_NAME], e potrei lasciarti continuare a esistere ancora un po'.</Italian>
-		<Spanish>Entregadnos esto, [CT_NAME] y puede que os deje perdurar un poco más.</Spanish>
+		<Spanish>Entregadnos esto, [CT_NAME] y puede que os deje perdurar un poco mÃ¡s.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_NATIVE_1</Tag>
 		<English>Unlikely as it may seem, it appears that your puny civilization has something that we want. I suggest you hand it over quickly. </English>
 		<French>Aussi ahurissant que cela puisse para&#238;tre, il semblerait que votre ridicule petite civilisation dispose de quelque chose qui pourrait nous &#234;tre utile. Je vous sugg&#232;re de nous le d&#233;livrer au plus vite.</French>
-		<German>So unglaublich es auch klingen mag: Eure mickrige Zivilisation scheint tatsächlich etwas zu haben, was wir wollen. Ihr wärt gut beraten, es uns schnellstens zu überlassen! </German>
-		<Italian>Per quanto possa apparire improbabile, a quanto pare la tua insignificante civiltà possiede qualcosa che vogliamo. Ti consiglio di darcelo subito. </Italian>
-		<Spanish>Por extraño que suene, parece que vuestra civilización tiene algo que queremos. Os sugiero que nos lo deis rápidamente. </Spanish>
+		<German>So unglaublich es auch klingen mag: Eure mickrige Zivilisation scheint tatsÃ¤chlich etwas zu haben, was wir wollen. Ihr wÃ¤rt gut beraten, es uns schnellstens zu Ã¼berlassen! </German>
+		<Italian>Per quanto possa apparire improbabile, a quanto pare la tua insignificante civiltÃ  possiede qualcosa che vogliamo. Ti consiglio di darcelo subito. </Italian>
+		<Spanish>Por extraÃ±o que suene, parece que vuestra civilizaciÃ³n tiene algo que queremos. Os sugiero que nos lo deis rÃ¡pidamente. </Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_NATIVE_1</Tag>
 		<English>Welcome, [CT_NAME]. And how is that undefended civilization of your coming along?</English>
 		<French>Bienvenue, [CT_NAME]. Alors, comment &#233;volue donc la situation dans votre petite civilisation si vuln&#233;rable ?</French>
 		<German>Willkommen, [CT_NAME]! Und, wie stehen die Dinge in Eurer hilflosen kleinen Zivilisation?</German>
-		<Italian>Salve, [CT_NAME]. Come vanno le cose per la tua civiltà indifesa?</Italian>
-		<Spanish>Saludos, [CT_NAME]. ¿Cómo está esa civilización indefensa de la que venís?</Spanish>
+		<Italian>Salve, [CT_NAME]. Come vanno le cose per la tua civiltÃ  indifesa?</Italian>
+		<Spanish>Saludos, [CT_NAME]. Â¿CÃ³mo estÃ¡ esa civilizaciÃ³n indefensa de la que venÃ­s?</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_NO_PEACE_LEADER_NATIVE_1</Tag>
 		<English>Not a chance. The mighty [OUR_CIV_ADJ] people do not care to make peace with cattle-stealing brigands like you.</English>
 		<French>N'y comptez pas ! Le puissant peuple des [OUR_CIV_ADJ] ne souhaite pas faire la paix avec des vils voleurs de b&#233;tail de votre esp&#232;ce.</French>
-		<German>Keine Chance! Das mächtige [OUR_CIV_ADJ:3] Volk hat kein Interesse daran, mit miesen Viehdieben wie Euch Frieden zu schließen! </German>
-		<Italian>Neanche per idea. Al potente sovrano [OUR_CIV_ADJ] non può interessare la pace con briganti ladri di bestiame come voi. </Italian>
+		<German>Keine Chance! Das mÃ¤chtige [OUR_CIV_ADJ:3] Volk hat kein Interesse daran, mit miesen Viehdieben wie Euch Frieden zu schlieÃŸen! </German>
+		<Italian>Neanche per idea. Al potente sovrano [OUR_CIV_ADJ] non puÃ² interessare la pace con briganti ladri di bestiame come voi. </Italian>
 		<Spanish>Ni en broma. El poderoso pueblo [OUR_CIV_ADJ:1] no se molesta ni en hacer las paces con cuatreros bergantes como vosotros. </Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_NATIVE_1</Tag>
 		<English>Greetings, [CT_NAME]! The [OUR_CIV_ADJ] people always enjoy meeting vulnerable and undefended new civilizations!</English>
 		<French>Mes hommages, [CT_NAME] ! Le peuple des [OUR_CIV_ADJ] est toujours enchant&#233; de rencontrer de nouvelles civilisations vuln&#233;rables et sans d&#233;fense !</French>
-		<German>Seid gegrüßt, [CT_NAME]! Das [OUR_CIV_ADJ:3] Volk ist stets hoch erfreut, die Bekanntschaft schutz- und wehrloser neuer Zivilisationen zu machen!</German>
-		<Italian>Salve, [CT_NAME]! Il sovrano [OUR_CIV_ADJ] è sempre lieto di incontrare nuove civiltà vulnerabili e indifese!</Italian>
-		<Spanish>¡Saludos, [CT_NAME]! El pueblo [OUR_CIV_ADJ:1] siempre se congratula de encontrarse con civilizaciones vulnerables e indefensas.</Spanish>
+		<German>Seid gegrÃ¼ÃŸt, [CT_NAME]! Das [OUR_CIV_ADJ:3] Volk ist stets hoch erfreut, die Bekanntschaft schutz- und wehrloser neuer Zivilisationen zu machen!</German>
+		<Italian>Salve, [CT_NAME]! Il sovrano [OUR_CIV_ADJ] Ã¨ sempre lieto di incontrare nuove civiltÃ  vulnerabili e indifese!</Italian>
+		<Spanish>Â¡Saludos, [CT_NAME]! El pueblo [OUR_CIV_ADJ:1] siempre se congratula de encontrarse con civilizaciones vulnerables e indefensas.</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_NATIVE_1</Tag>
 		<English>So you have emerged from your fetid country and come to me, [CT_NAME]. To what do I owe this extremely dubious honor?</English>
 		<French>Vous avez enfin r&#233;ussi &#224; sortir de cet horrible pays pour venir me voir, [CT_NAME]. Que me vaut un pareil honneur ?</French>
 		<German>Oha, Ihr habt Euer stinkendes Land verlassen, um mich zu besuchen, [CT_NAME]? Was verschafft mir denn diese zweifelhafte Ehre?</German>
-		<Italian>E così hai lasciato quel tuo fetido paese e sei venuto da me, [CT_NAME]. E a cosa devo questo dubbio onore?</Italian>
-		<Spanish>Así que hab&#233;is salido de vuestro f&#233;tido país y hab&#233;is venido a verme, [CT_NAME]. ¿A qu&#233; debo tan dudoso honor?</Spanish>
+		<Italian>E cosÃ¬ hai lasciato quel tuo fetido paese e sei venuto da me, [CT_NAME]. E a cosa devo questo dubbio onore?</Italian>
+		<Spanish>AsÃ­ que hab&#233;is salido de vuestro f&#233;tido paÃ­s y hab&#233;is venido a verme, [CT_NAME]. Â¿A qu&#233; debo tan dudoso honor?</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MEHMED_1</Tag>
 		<English>We require mighty [CT_CIV_SHORT]'s assistance. I hope you won't disappoint us.</English>
-		<French>Nous avons besoin de l'aide des [CT_CIV_SHORT]. J'esp&#232;re que vous ne nous décevrez pas.</French>
-		<German>Wir könnten die Hilfe des mächtigen Volkes von [CT_CIV_SHORT] brauchen und hoffen doch sehr, dass Ihr uns nicht im Stich lasst!</German>
+		<French>Nous avons besoin de l'aide des [CT_CIV_SHORT]. J'esp&#232;re que vous ne nous dÃ©cevrez pas.</French>
+		<German>Wir kÃ¶nnten die Hilfe des mÃ¤chtigen Volkes von [CT_CIV_SHORT] brauchen und hoffen doch sehr, dass Ihr uns nicht im Stich lasst!</German>
 		<Italian>Chiediamo aiuto alla tua potente civilt&#224;. Spero che non ci deluderai.</Italian>
 		<Spanish>Necesitamos la ayuda y la fortaleza de [CT_CIV]. Espero que no nos decepcion&#233;is.</Spanish>
 	</TEXT>
@@ -312,5 +422,69 @@
 		<Tag>TXT_KEY_TRADE_SLAVE</Tag>
 		<English>Slave Trade</English>
 		<German>Sklavenhandel</German>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SARGON_1</Tag>
+		<English>Welcome, puny mortal. I am [OUR_NAME], divine leader of [OUR_CIV_SHORT]. How can you assist me?</English>
+		<French>Bienvenue, misérable mortel. Je suis [OUR_NAME], divin chef des [OUR_CIV_SHORT:3]. Que pouvez-vous faire pour moi ?</French>
+		<German>Willkommen, sterbliches Wesen. Ich bin [OUR_NAME], gottgleiches Staatsoberhaupt des Volkes von [OUR_CIV_SHORT]. Was könnt Ihr für mich tun?</German>
+		<Italian>Benvenuto, debole mortale. Sono [OUR_NAME], capo divino di [OUR_CIV_SHORT]. Come puoi servirmi?</Italian>
+		<Spanish>Se os da la bienvenida, insignificante mortal. Soy [OUR_NAME], líder divino de [OUR_CIV_SHORT]. ¿En qué podéis ayudarme?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_SARGON_1</Tag>
+		<English>No! Your prayers will remain unanswered!</English>
+		<French>Non ! Vos prières resteront sans réponse !</French>
+		<German>Nein! Eure Gebete werden nicht erhört!</German>
+		<Italian>No! Le tue preghiere non verranno ascoltate!</Italian>
+		<Spanish>¡No! ¡Vuestros ruegos serán desoídos!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_SARGON_1</Tag>
+		<English>This war will continue until my divine bloodlust is completely sated.</English>
+		<French>Cette guerre continuera jusqu'à ce que ma soif de sang soit totalement étanchée.</French>
+		<German>Dieser Krieg wird so lange dauern, bis es meinen göttlichen Gaumen nicht mehr nach Blut dürstet!</German>
+		<Italian>Questa guerra continuerà fino a quando la mia divina sete di sangue non si sarà calmata.</Italian>
+		<Spanish>Esta guerra continuará hasta que mi divina sed de sangre se sacie por completo.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_SARGON_1</Tag>
+		<English>You are truly blessed to come once more into my divine presence, [CT_NAME]. I assume that you've brought gifts?</English>
+		<French>Vous avez vraiment de la chance d'être une nouvelle fois en ma divine présence, [CT_NAME]. J'imagine que vous avez amené des cadeaux ?</French>
+		<German>Ihr seid wahrhaft gesegnet, dass Ihr Euch erneut in meinem göttlichen Glanz sonnen dürft, [CT_NAME]. Ich nehme an, Ihr habt angemessene Geschenke dabei?</German>
+		<Italian>Sei davvero fortunato a trovarti ancora una volta in presenza della mia divinità, [CT_NAME]. Presuppongo che tu abbia dei regali.</Italian>
+		<Spanish>No sabéis la suerte que tenéis de poder comparecer una vez más ante mi divina presencia, [CT_NAME]. Supongo que me habréis traído ofrendas, ¿no?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SARGON_1</Tag>
+		<English>Speak quickly before I open a big old can of divine wrath on you, false one!</English>
+		<French>Parlez vite, avant que je ne vous foudroie de ma colère divine, scélérat !</French>
+		<German>Redet, bevor ich die Geduld mit Euch falscher Schlange verliere!</German>
+		<Italian>Parla in fretta, prima che scateni un po' di buona vecchia ira divina su di te, bugiardo!</Italian>
+		<Spanish>Hablad rápidamente antes de que abra un gran frasco de cólera divina y la vierta sobre vos, serpiente.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SARGON_1</Tag>
+		<English>Even the most inferior culture may have something to contribute to [OUR_CIV_SHORT]'s greatness, [CT_NAME]. For example:</English>
+		<French>Même les civilisations les plus primitives peuvent détenir quelque chose susceptible de contribuer à la grandeur des [OUR_CIV_SHORT], [CT_NAME]. Par exemple :</French>
+		<German>Selbst die mickrigste Kultur besitzt etwas, was sie dem großen Volk von [OUR_CIV_SHORT] überlassen kann, [CT_NAME]. Zum Beispiel das hier:</German>
+		<Italian>Anche la cultura più infima può contribuire in qualche modo alla grandezza di [OUR_CIV_SHORT], [CT_NAME]. Per esempio:</Italian>
+		<Spanish>Hasta la más inferior de las culturas puede contribuir en algo a la grandeza de [OUR_CIV_SHORT], [CT_NAME]. Por ejemplo:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SARGON_1</Tag>
+		<English>Decide now, [CT_NAME]: deal, or no deal.</English>
+		<French>Décidez-vous, [CT_NAME] : on fait affaire, oui ou non ?</French>
+		<German>Entscheidet Euch, [CT_NAME]: Ja oder Nein!</German>
+		<Italian>Decidi ora, [CT_NAME]: affare fatto, o no?</Italian>
+		<Spanish>Decidid, [CT_NAME]: ¿hay trato o no?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SARGON_1</Tag>
+		<English>If you wish for your puny civilization to survive, I urge you to make a small donation to us. Immediately.</English>
+		<French>Si vous souhaitez que votre pitoyable civilisation survive, je vous conseille de nous faire une modeste donation. Immédiatement.</French>
+		<German>Wenn Euch am Überleben Eurer armseligen Zivilisation gelegen ist, solltet Ihr uns schleunigst Tribut zollen. Sofort!</German>
+		<Italian>Se vuoi che la tua debole civiltà sopravviva, ti consiglio di farci una piccola donazione. Immediatamente.</Italian>
+		<Spanish>Si queréis que vuestra insignificante civilización sobreviva, os insto a que nos hagáis un pequeño donativo. De inmediato.</Spanish>
 	</TEXT>
 </Civ4GameText>

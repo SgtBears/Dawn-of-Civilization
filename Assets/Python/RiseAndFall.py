@@ -889,7 +889,7 @@ class RiseAndFall:
 				utils.updateMinorTechs(iSeljuks, iBarbarian)
 
 		#Leoreth: give Phoenicia a settler in Qart-Hadasht in 820BC
-		if (not pCarthage.isHuman() and iGameTurn == getTurnForYear(-820) - (utils.getSeed() % 10)):
+		if (not pPhoenicia.isHuman() and iGameTurn == getTurnForYear(-820) - (utils.getSeed() % 10)):
 			utils.makeUnit(iSettler, iPhoenicia, (58, 39), 1)
 			utils.makeUnit(iArcher, iPhoenicia, (58, 39), 2)
 			utils.makeUnit(iWorker, iPhoenicia, (58, 39), 2)
@@ -2991,11 +2991,11 @@ class RiseAndFall:
 			tSeaPlot = self.findSeaPlots(tPlot, 1, iCiv)
 			if (tSeaPlot):				
 				utils.makeUnit(iWorkboat, iCiv, tSeaPlot, 2)
-				pCarthage.initUnit(iGalley, tSeaPlot[0], tSeaPlot[1], UnitAITypes.UNITAI_SETTLER_SEA, DirectionTypes.DIRECTION_SOUTH)
+				pPhoenicia.initUnit(iGalley, tSeaPlot[0], tSeaPlot[1], UnitAITypes.UNITAI_SETTLER_SEA, DirectionTypes.DIRECTION_SOUTH)
 				utils.makeUnit(iSettler, iCiv, tSeaPlot, 1)
 				utils.makeUnit(iArcher, iCiv, tSeaPlot, 1)
-				pCarthage.initUnit(iGalley, tSeaPlot[0], tSeaPlot[1], UnitAITypes.UNITAI_ASSAULT_SEA, DirectionTypes.DIRECTION_SOUTH)
-				pCarthage.initUnit(iTrireme, tSeaPlot[0], tSeaPlot[1], UnitAITypes.UNITAI_ESCORT_SEA, DirectionTypes.DIRECTION_SOUTH)
+				pPhoenicia.initUnit(iGalley, tSeaPlot[0], tSeaPlot[1], UnitAITypes.UNITAI_ASSAULT_SEA, DirectionTypes.DIRECTION_SOUTH)
+				pPhoenicia.initUnit(iTrireme, tSeaPlot[0], tSeaPlot[1], UnitAITypes.UNITAI_ESCORT_SEA, DirectionTypes.DIRECTION_SOUTH)
 		if iCiv == iPolynesia:
 			tSeaPlot = (4, 19)
 			utils.makeUnit(iSettler, iCiv, tPlot, 1)
@@ -3222,13 +3222,13 @@ class RiseAndFall:
 			utils.makeUnit(iLongbowman, iCiv, tPlot, 2)
 			utils.makeUnit(iCrossbowman, iCiv, tPlot, 2)
 			utils.makeUnit(iKnight, iCiv, tPlot, 3)
-			utils.makeUnit(iOttomanJanissary, iCiv, tPlot, 2)
+			utils.makeUnit(iTurkishJanissary, iCiv, tPlot, 2)
 			utils.makeUnit(iBombard, iCiv, tPlot, 4)
 			utils.makeUnit(iTrebuchet, iCiv, tPlot, 2)
 			utils.createMissionaries(iCiv, 3)
 			if utils.getHumanID() != iTurkey:
 				utils.makeUnit(iBombard, iCiv, tPlot, 4)
-				utils.makeUnit(iOttomanJanissary, iCiv, tPlot, 5)
+				utils.makeUnit(iTurkishJanissary, iCiv, tPlot, 5)
 				utils.makeUnit(iKnight, iCiv, tPlot, 4)
 		if (iCiv == iPortugal):
 			utils.createSettlers(iCiv, 1)
@@ -3603,7 +3603,7 @@ class RiseAndFall:
 		
 		# Turkey
 		tCapital = tIstanbul
-		utils.makeUnit(iOttomanJanissary, iTurkey, tCapital, 10)
+		utils.makeUnit(iTurkishJanissary, iTurkey, tCapital, 10)
 		utils.makeUnit(iCuirassier, iTurkey, tCapital, 4)
 		utils.makeUnit(iBombard, iTurkey, tCapital, 5)
 		

@@ -891,7 +891,7 @@
 		<English>The [COLOR_UNIT_TEXT]Mounted Brave[COLOR_REVERT] is a barbarian unit that spawns in Central North America from 1700 to 1900 AD.</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_UNIT_OTTOMAN_JANISSARY_STRATEGY</Tag>
+		<Tag>TXT_KEY_UNIT_TURKISH_JANISSARY_STRATEGY</Tag>
 		<English>The [COLOR_UNIT_TEXT]Janissary[COLOR_REVERT], the Ottoman replacement for the [COLOR_UNIT_TEXT]Musketman[COLOR_REVERT], has a combat bonus against [COLOR_UNIT_TEXT]Archery Units[COLOR_REVERT], [COLOR_UNIT_TEXT]Mounted Units[COLOR_REVERT] and [COLOR_UNIT_TEXT]Melee Units[COLOR_REVERT].</English>
 	</TEXT>
 	<TEXT>
@@ -981,7 +981,7 @@
 		<German>Orthodoxer Missionar</German>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_UNIT_OTTOMAN_JANISSARY</Tag>
+		<Tag>TXT_KEY_UNIT_TURKISH_JANISSARY</Tag>
 		<English>Janissary</English>
 		<French>
 			<Text>Janissaire:Janissaires</Text>

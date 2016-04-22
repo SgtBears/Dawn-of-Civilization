@@ -459,7 +459,7 @@ iCivGreece : {
 		"fArtemisia", # 4th
 	],
 },
-iCivCarthage : {
+iCivPhoenicia : {
 	iGreatProphet : [
 		"Acherbas", # legendary
 		iClassical,
@@ -1773,7 +1773,7 @@ iCivItaly : {
 		"Giuseppe Garibaldi", # 19th
 	],
 },
-iCivMongols : {
+iCivMongolia : {
 	iGreatProphet : [
 		"Abaqa", # 13th
 		"Arghun", # 13th

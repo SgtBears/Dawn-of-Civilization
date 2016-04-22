@@ -7,6 +7,30 @@
 		<German>Abbas I.</German>
 	</TEXT>
 	<TEXT>
+		<Tag>TXT_KEY_LEADER_MAO_ZEDONG</Tag>
+		<English>Mao Zedong</English>
+		<French>
+			<Text>Mao Ts&#233;-Tung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Mao Tse-tung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Mao Tse Tung</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Mao Zedong</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
 		<Tag>TXT_KEY_LEADER_ABU_BAKR</Tag>
 		<English>Abu Bakr</English>
 		<French>
@@ -153,10 +177,6 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_CIXI</Tag>
-		<English>Cixi</English>
-	</TEXT>
-	<TEXT>
 		<Tag>TXT_KEY_LEADER_DHARMASETU</Tag>
 		<English>Dharmasetu</English>
 	</TEXT>
@@ -217,7 +237,7 @@
 		<English>Franco</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_GILGAMESH</Tag>
+		<Tag>TXT_KEY_LEADER_SARGON</Tag>
 		<English>Sargon</English>
 	</TEXT>
 	<TEXT>
@@ -257,7 +277,7 @@
 		<English>Harun al-Rashid</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_HATSHEPSUT</Tag>
+		<Tag>TXT_KEY_LEADER_CLEOPATRA</Tag>
 		<English>Cleopatra</English>
 	</TEXT>
 	<TEXT>
@@ -471,7 +491,7 @@
 		<English>Suharto</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_TAIZONG</Tag>
+		<Tag>TXT_KEY_LEADER_TANG_TAIZONG</Tag>
 		<English>Tang Taizong</English>
 	</TEXT>
 	<TEXT>

@@ -665,12 +665,12 @@
 		</BuildingInfo>
 		<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_AQUEDUCT</BuildingClass>
-			<Type>BUILDING_OTTOMAN_HAMMAM</Type>
-			<Description>TXT_KEY_BUILDING_OTTOMAN_HAMMAM</Description>
-			<Civilopedia>TXT_KEY_BUILDING_OTTOMAN_HAMMAM_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_BUILDING_OTTOMAN_HAMMAM_STRATEGY</Strategy>
+			<Type>BUILDING_TURKISH_HAMMAM</Type>
+			<Description>TXT_KEY_BUILDING_TURKISH_HAMMAM</Description>
+			<Civilopedia>TXT_KEY_BUILDING_TURKISH_HAMMAM_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_TURKISH_HAMMAM_STRATEGY</Strategy>
 			<Advisor>ADVISOR_GROWTH</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_OTTOMAN_HAMMAM</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_TURKISH_HAMMAM</ArtDefineTag>
 			<FreeStartEra>ERA_RENAISSANCE</FreeStartEra>
 			<PrereqTech>TECH_MATHEMATICS</PrereqTech>
 			<TechTypes>

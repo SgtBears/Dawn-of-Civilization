@@ -10,7 +10,7 @@
 		<LeaderHeadInfo>
 			<Type>LEADER_RAMESSES</Type>
 			<Description>TXT_KEY_LEADER_RAMESSES</Description>
-			<Civilopedia>TXT_KEY_LEADER_RAMESSES_II_PEDIA</Civilopedia>
+			<Civilopedia>TXT_KEY_LEADER_RAMESSES_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_RAMESSES</ArtDefineTag>
 			<iWonderConstructRand>50</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
@@ -560,9 +560,9 @@
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
-			<Type>LEADER_HATSHEPSUT</Type>
-			<Description>TXT_KEY_LEADER_HATSHEPSUT</Description>
-			<Civilopedia>TXT_KEY_LEADER_HATSHEPSUT_PEDIA</Civilopedia>
+			<Type>LEADER_CLEOPATRA</Type>
+			<Description>TXT_KEY_LEADER_CLEOPATRA</Description>
+			<Civilopedia>TXT_KEY_LEADER_CLEOPATRA_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_CLEOPATRA</ArtDefineTag>
 			<iWonderConstructRand>40</iWonderConstructRand>
 			<iBaseAttitude>1</iBaseAttitude>
@@ -2753,10 +2753,10 @@
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
-			<Type>LEADER_TAIZONG</Type> <!-- Personality: Asoka -->
-			<Description>TXT_KEY_LEADER_TAIZONG</Description>
-			<Civilopedia>TXT_KEY_LEADER_TAIZONG_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_TAIZONG</ArtDefineTag>
+			<Type>LEADER_TANG_TAIZONG</Type> <!-- Personality: Asoka -->
+			<Description>TXT_KEY_LEADER_TANG_TAIZONG</Description>
+			<Civilopedia>TXT_KEY_LEADER_TANG_TAIZONG_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_TANG_TAIZONG</ArtDefineTag>
 			<iWonderConstructRand>50</iWonderConstructRand>
 			<iBaseAttitude>1</iBaseAttitude>
 			<iBasePeaceWeight>8</iBasePeaceWeight>
@@ -3839,10 +3839,10 @@
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
-			<Type>LEADER_CHINESE_LEADER</Type>
-			<Description>TXT_KEY_LEADER_CHINESE_LEADER</Description>
-			<Civilopedia>TXT_KEY_LEADER_CHINESE_LEADER_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_CHINESE_LEADER</ArtDefineTag>
+			<Type>LEADER_MAO_ZEDONG</Type>
+			<Description>TXT_KEY_LEADER_MAO_ZEDONG</Description>
+			<Civilopedia>TXT_KEY_LEADER_MAO_ZEDONG_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_MAO_ZEDONG</ArtDefineTag>
 			<iWonderConstructRand>10</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>1</iBasePeaceWeight>
@@ -4390,10 +4390,10 @@
 		</LeaderHeadInfo>
 		<!-- Babylonia -->
 		<LeaderHeadInfo>
-			<Type>LEADER_GILGAMESH</Type>
-			<Description>TXT_KEY_LEADER_GILGAMESH</Description>
-			<Civilopedia>TXT_KEY_LEADER_GILGAMESH_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_GILGAMESH</ArtDefineTag>
+			<Type>LEADER_SARGON</Type>
+			<Description>TXT_KEY_LEADER_SARGON</Description>
+			<Civilopedia>TXT_KEY_LEADER_SARGON_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_SARGON</ArtDefineTag>
 			<iWonderConstructRand>40</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>2</iBasePeaceWeight>
@@ -20415,7 +20415,7 @@
 				</DiploMusicWarEra>
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
-		<!-- Viking -->
+		<!-- Vikings -->
 		<LeaderHeadInfo>
 			<Type>LEADER_RAGNAR</Type>
 			<Description>TXT_KEY_LEADER_RAGNAR</Description>
@@ -48368,7 +48368,7 @@
 				</DiploMusicWarEra>
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
-		<!-- Ottoman -->
+		<!-- Turkey -->
 		<LeaderHeadInfo>
 			<Type>LEADER_MEHMED</Type>
 			<Description>TXT_KEY_LEADER_MEHMED</Description>
@@ -62727,7 +62727,7 @@
 				</DiploMusicWarEra>
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
-		<!-- Celts -->
+		<!-- Celtia -->
 		<LeaderHeadInfo>
 			<Type>LEADER_BRENNUS</Type>
 			<Description>TXT_KEY_LEADER_BRENNUS</Description>

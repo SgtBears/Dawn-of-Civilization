@@ -361,7 +361,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -450,7 +449,6 @@
 			<BonusesRequired/>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -783,10 +781,9 @@
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
 			<bUnitsOnPlot>0</bUnitsOnPlot>
 			<BuildingsRequired>
-				<BuildingClass>BUILDINGCLASS_JEWISH_CATHEDRAL</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_ORTHODOX_CATHEDRAL</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_CATHOLIC_CATHEDRAL</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_PROTESTANT_CATHEDRAL</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_CATHOLIC_CATHEDRAL</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_ORTHODOX_CATHEDRAL</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_ISLAMIC_CATHEDRAL</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_HINDU_CATHEDRAL</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_BUDDHIST_CATHEDRAL</BuildingClass>
@@ -1520,7 +1517,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -1616,7 +1612,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -1702,10 +1697,9 @@
 			<BonusesRequired/>
 			<RoutesRequired/>
 			<ReligionsRequired>
-				<ReligionType>RELIGION_JUDAISM</ReligionType>
-				<ReligionType>RELIGION_ORTHODOXY</ReligionType>
 				<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
 				<ReligionType>RELIGION_CATHOLICISM</ReligionType>
+				<ReligionType>RELIGION_ORTHODOXY</ReligionType>
 				<ReligionType>RELIGION_ISLAM</ReligionType>
 				<ReligionType>RELIGION_ZOROASTRIANISM</ReligionType>
 			</ReligionsRequired>
@@ -2917,8 +2911,6 @@
 				<ImprovementType>IMPROVEMENT_VILLAGE</ImprovementType>
 				<ImprovementType>IMPROVEMENT_TOWN</ImprovementType>
 				<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
-				<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
-				<ImprovementType>IMPROVEMENT_WINDMILL</ImprovementType>
 				<ImprovementType>IMPROVEMENT_WORKSHOP</ImprovementType>
 				<ImprovementType>IMPROVEMENT_QUARRY</ImprovementType>
 				<ImprovementType>IMPROVEMENT_WELL</ImprovementType>
@@ -3739,12 +3731,12 @@
 				<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
 				<ImprovementType>IMPROVEMENT_FORT</ImprovementType>
 				<ImprovementType>IMPROVEMENT_LUMBERMILL</ImprovementType>
+				<ImprovementType>IMPROVEMENT_FOREST_PRESERVE</ImprovementType>
 				<ImprovementType>IMPROVEMENT_WINDMILL</ImprovementType>
 			</ImprovementsRequired>
 			<BonusesRequired/>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -4179,7 +4171,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -4435,7 +4426,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -5384,7 +5374,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -5963,11 +5952,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_ARCHER</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -6053,14 +6040,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_HORSE_ARCHER</UnitClass>
-				<UnitClass>UNITCLASS_KNIGHT</UnitClass>
-				<UnitClass>UNITCLASS_CUIRASSIER</UnitClass>
-				<UnitClass>UNITCLASS_CAVALRY</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -6081,7 +6063,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -7268,10 +7249,9 @@
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
 			<bUnitsOnPlot>0</bUnitsOnPlot>
 			<BuildingsRequired>
-				<BuildingClass>BUILDINGCLASS_JEWISH_MONASTERY</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_ORTHODOX_MONASTERY</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_CATHOLIC_MONASTERY</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_PROTESTANT_MONASTERY</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_CATHOLIC_MONASTERY</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_ORTHODOX_MONASTERY</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_ISLAMIC_MONASTERY</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_HINDU_MONASTERY</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_BUDDHIST_MONASTERY</BuildingClass>
@@ -7542,8 +7522,10 @@
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
 			<bUnitsOnPlot>0</bUnitsOnPlot>
-			<BuildingsRequired/>
-			<iNumBuildings>0</iNumBuildings>
+			<BuildingsRequired>
+				<BuildingClass>BUILDINGCLASS_OLYMPIC_PARK</BuildingClass>
+			</BuildingsRequired>
+			<iNumBuildings>1</iNumBuildings>
 			<iNumBuildingsGlobal>0</iNumBuildingsGlobal>
 			<iNumPlotsRequired>0</iNumPlotsRequired>
 			<bOwnPlot>0</bOwnPlot>
@@ -7870,11 +7852,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_AXEMAN</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -7960,15 +7940,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_SPEARMAN</UnitClass>
-				<UnitClass>UNITCLASS_PIKEMAN</UnitClass>
-				<UnitClass>UNITCLASS_AXEMAN</UnitClass>
-				<UnitClass>UNITCLASS_SWORDSMAN</UnitClass>
-				<UnitClass>UNITCLASS_HEAVY_SWORDSMAN</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -8143,11 +8117,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_CROSSBOWMAN</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -8233,11 +8205,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_GRENADIER</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -8322,11 +8292,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_CANNON</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -8413,11 +8381,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_CARRIER</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -8502,11 +8468,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_FIGHTER</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -8590,11 +8554,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_PIKEMAN</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -8679,11 +8641,9 @@
 			<MinDifficulty>NONE</MinDifficulty>
 			<iAngry>0</iAngry>
 			<iUnhealthy>0</iUnhealthy>
-			<UnitsRequired>
-				<UnitClass>UNITCLASS_TRIREME</UnitClass>
-			</UnitsRequired>
+			<UnitsRequired/>
 			<iNumUnits>0</iNumUnits>
-			<iNumUnitsGlobal>1</iNumUnitsGlobal>
+			<iNumUnitsGlobal>0</iNumUnitsGlobal>
 			<iUnitDamagedWeight>0</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
@@ -9007,7 +8967,7 @@
 			<iWeight>200</iWeight>
 			<bProbabilityUnitMultiply>0</bProbabilityUnitMultiply>
 			<bProbabilityBuildingMultiply>0</bProbabilityBuildingMultiply>
-			<Civic>NONE</Civic>
+			<Civic>CIVIC_ORGANIZED_RELIGION</Civic>
 			<iMinTreasury>0</iMinTreasury>
 			<iMinPopulation>0</iMinPopulation>
 			<iMaxPopulation>0</iMaxPopulation>
@@ -9826,10 +9786,9 @@
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
 			<bUnitsOnPlot>0</bUnitsOnPlot>
 			<BuildingsRequired>
-				<BuildingClass>BUILDINGCLASS_JEWISH_TEMPLE</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_ORTHODOX_TEMPLE</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_CATHOLIC_TEMPLE</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_PROTESTANT_TEMPLE</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_CATHOLIC_TEMPLE</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_ORTHODOX_TEMPLE</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_ISLAMIC_TEMPLE</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_HINDU_TEMPLE</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_BUDDHIST_TEMPLE</BuildingClass>
@@ -9852,14 +9811,12 @@
 			</TerrainsRequired>
 			<ImprovementsRequired>
 				<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
-				<ImprovementType>IMPROVEMENT_SLAVE_PLANTATION</ImprovementType>
 			</ImprovementsRequired>
 			<BonusesRequired>
 				<BonusType>BONUS_INCENSE</BonusType>
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -10130,7 +10087,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -10203,10 +10159,9 @@
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
 			<bUnitsOnPlot>0</bUnitsOnPlot>
 			<BuildingsRequired>
-				<BuildingClass>BUILDINGCLASS_JEWISH_CATHEDRAL</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_ORTHODOX_CATHEDRAL</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_CATHOLIC_CATHEDRAL</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_PROTESTANT_CATHEDRAL</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_CATHOLIC_CATHEDRAL</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_ORTHODOX_CATHEDRAL</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_ISLAMIC_CATHEDRAL</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_HINDU_CATHEDRAL</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_BUDDHIST_CATHEDRAL</BuildingClass>
@@ -10309,7 +10264,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -10737,7 +10691,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -10907,14 +10860,12 @@
 			<TerrainsRequired/>
 			<ImprovementsRequired>
 				<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
-				<ImprovementType>IMPROVEMENT_SLAVE_PLANTATION</ImprovementType>
 			</ImprovementsRequired>
 			<BonusesRequired>
 				<BonusType>BONUS_SILK</BonusType>
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -11006,7 +10957,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -11096,7 +11046,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -11178,14 +11127,12 @@
 			<TerrainsRequired/>
 			<ImprovementsRequired>
 				<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
-				<ImprovementType>IMPROVEMENT_SLAVE_PLANTATION</ImprovementType>
 			</ImprovementsRequired>
 			<BonusesRequired>
 				<BonusType>BONUS_BANANA</BonusType>
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
 				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired/>
@@ -12738,10 +12685,9 @@
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
 			<bUnitsOnPlot>0</bUnitsOnPlot>
 			<BuildingsRequired>
-				<BuildingClass>BUILDINGCLASS_JEWISH_MONASTERY</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_ORTHODOX_MONASTERY</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_CATHOLIC_MONASTERY</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_PROTESTANT_MONASTERY</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_CATHOLIC_MONASTERY</BuildingClass>
+				<BuildingClass>BUILDINGCLASS_ORTHODOX_MONASTERY</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_ISLAMIC_MONASTERY</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_HINDU_MONASTERY</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_BUDDHIST_MONASTERY</BuildingClass>
@@ -13955,13 +13901,13 @@
 			<iUnitDamagedWeight>1</iUnitDamagedWeight>
 			<iUnitDistanceWeight>0</iUnitDistanceWeight>
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
-			<bUnitsOnPlot>1</bUnitsOnPlot>
+			<bUnitsOnPlot>0</bUnitsOnPlot>
 			<BuildingsRequired/>
 			<iNumBuildings>0</iNumBuildings>
 			<iNumBuildingsGlobal>0</iNumBuildingsGlobal>
-			<iNumPlotsRequired>1</iNumPlotsRequired>
+			<iNumPlotsRequired>0</iNumPlotsRequired>
 			<bOwnPlot>0</bOwnPlot>
-			<iPlotType>2</iPlotType>
+			<iPlotType>-1</iPlotType>
 			<FeaturesRequired/>
 			<TerrainsRequired/>
 			<ImprovementsRequired/>
@@ -16598,9 +16544,7 @@
 			<ImprovementsRequired/>
 			<BonusesRequired/>
 			<RoutesRequired/>
-			<ReligionsRequired>
-				<ReligionType>RELIGION_JUDAISM</ReligionType>
-			</ReligionsRequired>
+			<ReligionsRequired/>
 			<iNumReligions>1</iNumReligions>
 			<CorporationsRequired/>
 			<iNumCorporations>0</iNumCorporations>
@@ -16693,8 +16637,6 @@
 			</BonusesRequired>
 			<RoutesRequired>
 				<RouteType>ROUTE_ROAD</RouteType>
-				<RouteType>ROUTE_ROMAN_ROAD</RouteType>
-				<RouteType>ROUTE_RAILROAD</RouteType>
 			</RoutesRequired>
 			<ReligionsRequired>
 				<ReligionType>RELIGION_BUDDHISM</ReligionType>
@@ -16775,9 +16717,7 @@
 			<iUnitExperienceWeight>0</iUnitExperienceWeight>
 			<bUnitsOnPlot>0</bUnitsOnPlot>
 			<BuildingsRequired>
-				<BuildingClass>BUILDINGCLASS_ORTHODOX_MONASTERY</BuildingClass>
 				<BuildingClass>BUILDINGCLASS_CATHOLIC_MONASTERY</BuildingClass>
-				<BuildingClass>BUILDINGCLASS_PROTESTANT_MONASTERY</BuildingClass>
 			</BuildingsRequired>
 			<iNumBuildings>1</iNumBuildings>
 			<iNumBuildingsGlobal>0</iNumBuildingsGlobal>
@@ -16790,9 +16730,7 @@
 			<BonusesRequired/>
 			<RoutesRequired/>
 			<ReligionsRequired>
-				<ReligionType>RELIGION_ORTHODOXY</ReligionType>
 				<ReligionType>RELIGION_CATHOLICISM</ReligionType>
-				<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
 			</ReligionsRequired>
 			<iNumReligions>1</iNumReligions>
 			<CorporationsRequired/>
@@ -16810,9 +16748,7 @@
 			<bPrereqEventPlot>0</bPrereqEventPlot>
 			<OrPreReqs/>
 			<AndPreReqs/>
-			<ObsoleteTechs>
-				<ObsoleteTech>TECH_COMPUTERS</ObsoleteTech>
-			</ObsoleteTechs>
+			<ObsoleteTechs/>
 			<bRecurring>0</bRecurring>
 			<bTeam>0</bTeam>
 			<bGlobal>0</bGlobal>

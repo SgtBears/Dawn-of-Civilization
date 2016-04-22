@@ -415,7 +415,7 @@ def checkTurn(iGameTurn, iPlayer):
 				
 		# third goal: have 5000 gold in 200 AD
 		if iGameTurn == getTurnForYear(200):
-			if pCarthage.getGold() >= utils.getTurns(5000):
+			if pPhoenicia.getGold() >= utils.getTurns(5000):
 				win(iPhoenicia, 2)
 			else:
 				lose(iPhoenicia, 2)
@@ -3110,7 +3110,7 @@ def getUHVHelp(iPlayer, iGoal):
 			bIberia = isControlled(iPhoenicia, Areas.getNormalArea(iSpain, False))
 			aHelp.append(getIcon(bItaly) + localText.getText("TXT_KEY_VICTORY_ITALY", ()) + ' ' + getIcon(bIberia) + localText.getText("TXT_KEY_VICTORY_IBERIA_CARTHAGE", ()))
 		elif iGoal == 2:
-			iTreasury = pCarthage.getGold()
+			iTreasury = pPhoenicia.getGold()
 			aHelp.append(getIcon(iTreasury >= utils.getTurns(5000)) + localText.getText("TXT_KEY_VICTORY_TOTAL_GOLD", (iTreasury, utils.getTurns(5000))))
 
 	elif iPlayer == iPolynesia:

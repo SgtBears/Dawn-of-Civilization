@@ -6,6 +6,7 @@
 <!-- Bonus/Resource art path information -->
 <Civ4ArtDefines xmlns="x-schema:CIV4ArtDefinesSchema.xml">
 	<BonusArtInfos>
+		<!-- Strategic -->
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_ALUMINUM</Type>
 			<fScale>1.0</fScale>
@@ -88,6 +89,7 @@
 			<Button>,Art/Interface/Buttons/WorldBuilder/Uranium.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,8,14</Button>
 			<FontButtonIndex>8</FontButtonIndex>
 		</BonusArtInfo>
+		<!-- Health -->
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_BANANA</Type>
 			<fScale>1.0</fScale>
@@ -193,6 +195,7 @@
 			<Button>,Art/Interface/Buttons/WorldBuilder/Wheat.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,2,16</Button>
 			<FontButtonIndex>19</FontButtonIndex>
 		</BonusArtInfo>
+		<!-- Happiness -->
 		<BonusArtInfo>
 			<Type>ART_DEF_BONUS_COFFEE</Type>
 			<fScale>0.5</fScale>
@@ -375,6 +378,7 @@
 			<Button>,Art/Interface/Buttons/WorldBuilder/Movies.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,5,15</Button>
 			<FontButtonIndex>34</FontButtonIndex>
 		</BonusArtInfo>
+		<!-- Other -->
 		<!--BonusArtInfo>
 			<Type>ART_DEF_BONUS_OLIVES</Type>
 			<fScale>0.5</fScale>
