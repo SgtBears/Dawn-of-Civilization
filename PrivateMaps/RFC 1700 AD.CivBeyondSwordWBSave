@@ -153,7 +153,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_SHIVAJI
+	LeaderType=LEADER_SHAHUJI
 	CivType=CIVILIZATION_INDIA                 
 	Team=5                 
 	PlayableCiv=1
@@ -195,7 +195,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_AUGUSTUS
+	LeaderType=LEADER_AUGUSTUS_CAESAR
 	CivType=CIVILIZATION_ROME                 
 	Team=9                 
 	PlayableCiv=0                
@@ -253,7 +253,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_TOKUGAWA
+	LeaderType=LEADER_ODA_NOBUNAGA
 	CivType=CIVILIZATION_JAPAN                 
 	Team=15                 
 	PlayableCiv=1                     

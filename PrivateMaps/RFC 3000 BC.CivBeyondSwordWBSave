@@ -193,7 +193,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_AUGUSTUS
+	LeaderType=LEADER_AUGUSTUS_CAESAR
 	CivType=CIVILIZATION_ROME                 
 	Team=9                 
 	PlayableCiv=1                   
@@ -203,7 +203,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_RAJENDRA
+	LeaderType=LEADER_RAJENDRA_CHOLA
 	CivType=CIVILIZATION_TAMILS
 	Team=10
 	PlayableCiv=1
@@ -223,7 +223,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_WANGKON
+	LeaderType=LEADER_WANG_KON
 	CivType=CIVILIZATION_KOREA
 	Team=12
 	PlayableCiv=1                   
@@ -254,7 +254,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_TOKUGAWA
+	LeaderType=LEADER_ODA_NOBUNAGA
 	CivType=CIVILIZATION_JAPAN                 
 	Team=15                 
 	PlayableCiv=1                    

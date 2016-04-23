@@ -141,7 +141,7 @@
 			<BackgroundKFM>art/LeaderHeads/MauryaFINAL/Tachnechobrus_Background.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_SHIVAJI</Type>
+			<Type>ART_DEF_LEADER_SHAHUJI</Type>
 			<Button>Art/leaderheads/Bhoja/Bhoja.dds</Button>
 			<NIF>art/leaderheads/Bhoja/Asoka.nif</NIF>
 			<KFM>art/leaderheads/Bhoja/Asoka.kfm</KFM>
@@ -209,7 +209,7 @@
 			<BackgroundKFM>art/LeaderHeads/Julius_Caesar/Julius_Caesar_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_AUGUSTUS</Type>
+			<Type>ART_DEF_LEADER_AUGUSTUS_CAESAR</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_America_Washington.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,2,7</Button>
 			<NIF>art/LeaderHeads/Augustus_Caesar/augustus_caesar.nif</NIF>
 			<KFM>art/LeaderHeads/Augustus_Caesar/augustus_caesar.kfm</KFM>
@@ -218,7 +218,7 @@
 		</LeaderheadArtInfo>
 		<!-- Tamils -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_RAJENDRA</Type>
+			<Type>ART_DEF_LEADER_RAJENDRA_CHOLA</Type>
 			<Button>Art/LeaderHeads/rajendra/rajendra.dds</Button>
 			<NIF>art/LeaderHeads/rajendra/Justinian.nif</NIF>
 			<KFM>art/LeaderHeads/rajendra/Justinian.kfm</KFM>
@@ -252,7 +252,7 @@
 		</LeaderheadArtInfo>
 		<!-- Korea -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_WANGKON</Type>
+			<Type>ART_DEF_LEADER_WANG_KON</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_America_Washington.dds,Art/Interface/Buttons/Warlords_Atlas_2.dds,8,7</Button>
 			<NIF>art/LeaderHeads/WangKon/wang_kon.nif</NIF>
 			<KFM>art/LeaderHeads/WangKon/wang_kon.kfm</KFM>
@@ -295,7 +295,7 @@
 		</LeaderheadArtInfo>
 		<!-- Japan -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_JIMMU</Type>
+			<Type>ART_DEF_LEADER_KAMMU</Type>
 			<Button>Art/leaderheads/Jimmu/Jimmu.dds</Button>
 			<NIF>Art/leaderheads/Jimmu/jimmu.nif</NIF>
 			<KFM>Art/leaderheads/Jimmu/brennus.kfm</KFM>
@@ -303,7 +303,7 @@
 			<BackgroundKFM>Art/leaderheads/Jimmu/brennus_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_TOKUGAWA</Type>
+			<Type>ART_DEF_LEADER_ODA_NOBUNAGA</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_Japan_Tokugawa.dds,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,4,12</Button>
 			<NIF>art/LeaderHeads/Tokugawa/tokugawa.nif</NIF>
 			<KFM>art/LeaderHeads/Tokugawa/tokugawa.kfm</KFM>

@@ -8808,10 +8808,10 @@
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
-			<Type>LEADER_SHIVAJI</Type> <!-- Personality: Sitting Bull -->
-			<Description>TXT_KEY_LEADER_SHIVAJI</Description>
-			<Civilopedia>TXT_KEY_LEADER_SHIVAJI_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_SHIVAJI</ArtDefineTag>
+			<Type>LEADER_SHAHUJI</Type> <!-- Personality: Sitting Bull -->
+			<Description>TXT_KEY_LEADER_SHAHUJI</Description>
+			<Civilopedia>TXT_KEY_LEADER_SHAHUJI_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_SHAHUJI</ArtDefineTag>
 			<iWonderConstructRand>0</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>4</iBasePeaceWeight>
@@ -13198,10 +13198,10 @@
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
-			<Type>LEADER_AUGUSTUS</Type>
-			<Description>TXT_KEY_LEADER_AUGUSTUS</Description>
+			<Type>LEADER_AUGUSTUS_CAESAR</Type>
+			<Description>TXT_KEY_LEADER_AUGUSTUS_CAESAR</Description>
 			<Civilopedia>TXT_KEY_LEADER_AUGUSTUS_CAESAR_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_AUGUSTUS</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_LEADER_AUGUSTUS_CAESAR</ArtDefineTag>
 			<iWonderConstructRand>20</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>8</iBasePeaceWeight>
@@ -13744,10 +13744,10 @@
 		</LeaderHeadInfo>
 		<!-- Tamils -->
 		<LeaderHeadInfo>
-			<Type>LEADER_RAJENDRA</Type>
-			<Description>TXT_KEY_LEADER_RAJENDRA</Description>
-			<Civilopedia>TXT_KEY_LEADER_RAJENDRA_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_RAJENDRA</ArtDefineTag>
+			<Type>LEADER_RAJENDRA_CHOLA</Type>
+			<Description>TXT_KEY_LEADER_RAJENDRA_CHOLA</Description>
+			<Civilopedia>TXT_KEY_LEADER_RAJENDRA_CHOLA_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_RAJENDRA_CHOLA</ArtDefineTag>
 			<iWonderConstructRand>10</iWonderConstructRand>
 			<iBaseAttitude>-1</iBaseAttitude>
 			<iBasePeaceWeight>0</iBasePeaceWeight>
@@ -15954,10 +15954,10 @@
 		</LeaderHeadInfo>
 		<!-- Korea -->
 		<LeaderHeadInfo>
-			<Type>LEADER_WANGKON</Type>
-			<Description>TXT_KEY_LEADER_WANGKON</Description>
+			<Type>LEADER_WANG_KON</Type>
+			<Description>TXT_KEY_LEADER_WANG_KON</Description>
 			<Civilopedia>TXT_KEY_LEADER_WANG_KON_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_WANGKON</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_LEADER_WANG_KON</ArtDefineTag>
 			<iWonderConstructRand>20</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>8</iBasePeaceWeight>
@@ -18725,10 +18725,10 @@
 		</LeaderHeadInfo>
 		<!-- Japan -->
 		<LeaderHeadInfo>
-			<Type>LEADER_JIMMU</Type> <!-- Personality: Pericles -->
-			<Description>TXT_KEY_LEADER_JIMMU</Description>
-			<Civilopedia>TXT_KEY_LEADER_JIMMU_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_JIMMU</ArtDefineTag>
+			<Type>LEADER_KAMMU</Type> <!-- Personality: Pericles -->
+			<Description>TXT_KEY_LEADER_KAMMU</Description>
+			<Civilopedia>TXT_KEY_LEADER_KAMMU_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_KAMMU</ArtDefineTag>
 			<iWonderConstructRand>40</iWonderConstructRand>
 			<iBaseAttitude>1</iBaseAttitude>
 			<iBasePeaceWeight>6</iBasePeaceWeight>
@@ -19281,10 +19281,10 @@
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
-			<Type>LEADER_TOKUGAWA</Type>
-			<Description>TXT_KEY_LEADER_TOKUGAWA</Description>
-			<Civilopedia>TXT_KEY_LEADER_TOKUGAWA_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_TOKUGAWA</ArtDefineTag>
+			<Type>LEADER_ODA_NOBUNAGA</Type>
+			<Description>TXT_KEY_LEADER_ODA_NOBUNAGA</Description>
+			<Civilopedia>TXT_KEY_LEADER_ODA_NOBUNAGA_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_ODA_NOBUNAGA</ArtDefineTag>
 			<iWonderConstructRand>20</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>0</iBasePeaceWeight>

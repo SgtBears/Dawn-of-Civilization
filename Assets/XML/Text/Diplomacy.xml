@@ -487,4 +487,68 @@
 		<Italian>Se vuoi che la tua debole civiltà sopravviva, ti consiglio di farci una piccola donazione. Immediatamente.</Italian>
 		<Spanish>Si queréis que vuestra insignificante civilización sobreviva, os insto a que nos hagáis un pequeño donativo. De inmediato.</Spanish>
 	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ODA_NOBUNAGA_1</Tag>
+		<English>Welcome, [CT_NAME]! May your empire flourish and grow for as long as it remains useful to us! I mean that sincerely. </English>
+		<French>Bienvenue, [CT_NAME] ! Puisse votre empire prosp&#233;rer et grandir tant qu'il nous sera utile ! Je suis sinc&#232;re...</French>
+		<German>Willkommen, [CT_NAME]! M&#246;ge Euer Imperium wachsen und gedeihen, solange auch wir einen Nutzen davon haben! Glaubt mir, das meine ich ganz aufrichtig!</German>
+		<Italian>Ti do il benvenuto, [CT_NAME]! Possa il tuo impero fiorire finch&#233; ci torner&#224; utile... Lo dico sinceramente!</Italian>
+		<Spanish>&#161;Os doy la bienvenida, [CT_NAME]! Que vuestro imperio florezca y prospere siempre que nos sea &#250;til. Os lo decimos con total sinceridad. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_ODA_NOBUNAGA_1</Tag>
+		<English>I have no time to exchange pleasantries with you, [CT_NAME]: I am too busy plotting your downfall. </English>
+		<French>Je n'ai pas le temps de plaisanter avec vous, [CT_NAME] : je suis trop occup&#233; &#224; pr&#233;parer votre chute.</French>
+		<German>Ich habe keine Zeit, Freundlichkeiten mit Euch auszutauschen, [CT_NAME]! Ich bin zu besch&#228;ftigt, Euren Untergang zu planen!</German>
+		<Italian>Non ho tempo per queste bazzecole, [CT_NAME]: sono troppo impegnato a tramare la tua caduta.</Italian>
+		<Spanish>No tengo tiempo de intercambiar cumplidos con vos, [CT_NAME]. Ando demasiado liado tramando vuestra ca&#237;da. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_ODA_NOBUNAGA_1</Tag>
+		<English>What? Leave you alive to betray and backstab us again?! I shall not sleep easily until you are totally vanquished!</English>
+		<French>Comment ? Que je vous laisse en vie, pour que vous puissiez encore nous trahir et nous poignarder dans le dos ? Je n'aurai point de repos tant que vous n'aurez pas &#233;t&#233; totalement vaincus !</French>
+		<German>Was? Wir sollen Euer Volk verschonen, damit Ihr uns erneut bel&#252;gen und betr&#252;gen k&#246;nnt?! Oh nein, ich werde nicht ruhen, bis Ihr ein f&#252;r allemal vernichtet seid!</German>
+		<Italian>Cosa? Lasciarti vivere in modo da darti ancora l'opportunit&#224; di pugnalarci alle spalle? Non dormir&#242; tranquillo finch&#233; sarai ancora in giro!</Italian>
+		<Spanish>&#191;Qu&#233;? &#191;Dejaros con vida para que nos traicion&#233;is y apu&#241;al&#233;is otra vez? &#161;No dormir&#233; hasta que hay&#225;is sido derrotados por completo!</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_ODA_NOBUNAGA_1</Tag>
+		<English>It is good to see you again, [CT_NAME]! Let us sit down and plot the ruination of our enemies. </English>
+		<French>C'est bon de vous revoir, [CT_NAME] ! Asseyons-nous et complotons pour la perte de nos ennemis.</French>
+		<German>Sch&#246;n, Euch wiederzusehen, [CT_NAME]! Kommt, setzen wir uns, damit wir in Ruhe die Vernichtung unserer Feinde planen k&#246;nnen.</German>
+		<Italian>&#200; bello vederti di nuovo, [CT_NAME]! Sediamoci e studiamo un metodo per rovinare i nostri nemici.</Italian>
+		<Spanish>&#161;Es un placer volver a veros, [CT_NAME]! &#161;Sent&#233;monos y tramemos la ruina del enemigo! </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ODA_NOBUNAGA_1</Tag>
+		<English>Greetings, [CT_NAME]! [OUR_CIV_SHORT] is honored by your visit. You can be sure that we will be coming to your country very soon now. </English>
+		<French>Bonjour, [CT_NAME] ! Les [OUR_CIV_SHORT] sont honor&#233;s de votre visite. Nous vous assurons que nous vous rendrons tr&#232;s prochainement la pareille.</French>
+		<German>Seid gegr&#252;&#223;t, [CT_NAME]! Welch eine Ehre f&#252;r [OUR_CIV_SHORT], dass Ihr uns einen Besuch abstattet. Seid versichert, dass wir auch Euch in K&#252;rze einen Besuch abstatten werden!</German>
+		<Italian>Salve, [CT_NAME]! La gente [OUR_CIV_SHORT:4] &#232; molto onorata dalla tua visita. Sicuramente verremo a trovarvi presto nella vostra nazione.</Italian>
+		<Spanish>&#161;Saludos, [CT_NAME]! [OUR_CIV_SHORT] se honra con vuestra visita. No dud&#233;is de que, muy pronto, vayamos a visitar vuestro pa&#237;s. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ODA_NOBUNAGA_1</Tag>
+		<English>Give us what we want, now! Or face imminent destruction! </English>
+		<French>Donnez-nous imm&#233;diatement ce que nous voulons ! Sinon, votre destruction sera imminente !</French>
+		<German>Gebt uns, was wir verlangen! Sofort! Andernfalls steht Eure Vernichtung unmittelbar bevor!</German>
+		<Italian>Dacci ci&#242; che vogliamo immediatamente o preparati ad affrontare la distruzione totale.</Italian>
+		<Spanish>&#161;Dadnos lo que queremos ahora mismo! &#161;O enfrentaos a una destrucci&#243;n inminente! </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ODA_NOBUNAGA_1</Tag>
+		<English>We are bigger and stronger than you, [CT_NAME]. You must give us tribute, or suffer the consequences.</English>
+		<French>Nous sommes plus nombreux et plus puissants que vous, [CT_NAME]. Vous devez nous payer un tribut ou en subir les cons&#233;quences.</French>
+		<German>Unser Volk ist gr&#246;&#223;er und st&#228;rker als das Eure, [CT_NAME]. Also entrichtet einen Tribut an uns oder tragt die Konsequenzen!</German>
+		<Italian>Siamo pi&#249; grandi e pi&#249; forti di te, [CT_NAME]. Devi pagarci il tributo, altrimenti ne sconterai le conseguenze.</Italian>
+		<Spanish>Somos mayores y m&#225;s fuertes que vosotros, [CT_NAME]. Deb&#233;is pagarnos tributo o sufrir las consecuencias.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ODA_NOBUNAGA_1</Tag>
+		<English>Do not let foolish pride cause the downfall of your people, [CT_NAME]. Pay us what we want - or be destroyed!</English>
+		<French>Ne laissez pas votre vaine fiert&#233; causer la perte de votre peuple, [CT_NAME]. Payez-nous ce que nous demandons, sous peine d'extermination !</French>
+		<German>Lasst Euren t&#246;richten Stolz nicht die Ursache f&#252;r den Untergang Eures Volkes sein, [CT_NAME]! Zahlt uns, was wir verlangen - oder Ihr werdet vernichtet!</German>
+		<Italian>Non permettere che la tua stupidit&#224; possa condannare la tua gente [CT_NAME]. Dacci ci&#242; che desideriamo o ti distruggeremo!</Italian>
+		<Spanish>No dej&#233;is que el orgullo est&#250;pido provoque la ca&#237;da de vuestro pueblo, [CT_NAME]. Pagadnos lo que queremos... &#161;o ser&#233;is destruidos!</Spanish>
+	</TEXT>
 </Civ4GameText>

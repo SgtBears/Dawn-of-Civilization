@@ -81,7 +81,7 @@
 		<English>Atat&#252;rk</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_AUGUSTUS</Tag>
+		<Tag>TXT_KEY_LEADER_AUGUSTUS_CAESAR</Tag>
 		<English>Augustus Caesar</English>
 		<French>
 			<Text>C&#233;sar Auguste</Text>
@@ -329,7 +329,7 @@
 		<English>Kangxi</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_JIMMU</Tag>
+		<Tag>TXT_KEY_LEADER_KAMMU</Tag>
 		<English>Kammu</English>
 	</TEXT>
 	<TEXT>
@@ -439,7 +439,7 @@
 		<English>Abd-ar-Rahman</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_RAJENDRA</Tag>
+		<Tag>TXT_KEY_LEADER_RAJENDRA_CHOLA</Tag>
 		<English>Rajendra Chola</English>
 	</TEXT>
 	<TEXT>
@@ -475,7 +475,7 @@
 		<English>Santa Anna</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_SHIVAJI</Tag>
+		<Tag>TXT_KEY_LEADER_SHAHUJI</Tag>
 		<English>Shahuji</English>
 	</TEXT>
 	<TEXT>
@@ -495,7 +495,7 @@
 		<English>Tang Taizong</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_TOKUGAWA</Tag>
+		<Tag>TXT_KEY_LEADER_ODA_NOBUNAGA</Tag>
 		<English>Oda Nobunaga</English>
 	</TEXT>
 	<TEXT>
@@ -511,7 +511,7 @@
 		<English>Vatavelli</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_WANGKON</Tag>
+		<Tag>TXT_KEY_LEADER_WANG_KON</Tag>
 		<English>Wang Kon</English>
 		<French>
 			<Text>Wang Kon</Text>
