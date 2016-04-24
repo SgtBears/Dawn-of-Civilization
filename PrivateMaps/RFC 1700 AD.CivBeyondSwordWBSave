@@ -267,7 +267,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_GUSTAV
+	LeaderType=LEADER_GUSTAV_ADOLPH
 	CivType=CIVILIZATION_VIKINGS   
 	CivDesc=TXT_KEY_CIV_SWEDEN_DESC
 	CivShortDesc=TXT_KEY_CIV_SWEDEN_SHORT_DESC
@@ -316,7 +316,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_RAHMAN
+	LeaderType=LEADER_ABD_AR_RAHMAN
 	CivType=CIVILIZATION_MOORS
 	Team=21
 	PlayableCiv=0
@@ -324,7 +324,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_FILIPE
+	LeaderType=LEADER_PHILIP
 	CivType=CIVILIZATION_SPAIN                 
 	Team=22                
 	PlayableCiv=1                     

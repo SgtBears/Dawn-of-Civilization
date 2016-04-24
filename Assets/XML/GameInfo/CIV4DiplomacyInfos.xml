@@ -109,7 +109,7 @@
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_HARUN</LeaderType>
+							<LeaderType>LEADER_HARUN_AL_RASHID</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -981,11 +981,11 @@
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_GUSTAV</LeaderType>
+							<LeaderType>LEADER_GUSTAV_ADOLPH</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_FILIPE</LeaderType>
+							<LeaderType>LEADER_PHILIP</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
@@ -1061,7 +1061,7 @@
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_SONGTSEN</LeaderType>
+							<LeaderType>LEADER_SONGTSEN_GAMPO</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
@@ -1073,11 +1073,11 @@
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_RAHMAN</LeaderType>
+							<LeaderType>LEADER_ABD_AR_RAHMAN</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_YAQUB</LeaderType>
+							<LeaderType>LEADER_YAQUB_AL_MANSUR</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>

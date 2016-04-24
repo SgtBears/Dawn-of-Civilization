@@ -336,11 +336,11 @@ class Religions:
 		lIndependentCities.extend(lDifferentStateReligionCities)
 		lIndependentCities.extend(lMinorCities)
 				
-		self.schism(pOrthodoxCapital, pCatholicCapital, iNoStateReligionCities, lIndependentCities)
+		self.schism(pOrthodoxCapital, pCatholicCapital, lNoStateReligionCities, lIndependentCities)
 
 	def schism(self, pOrthodoxCapital, pCatholicCapital, lReplace, lDistance):
 		for city in lReplace:
-			city.replace(iOrthodoxy, iCatholicism)
+			city.replaceReligion(iOrthodoxy, iCatholicism)
 			
 		for city in lDistance:
 			if stepDistance(city.getX(), city.getY(), pCatholicCapital.getX(), pCatholicCapital.getY()) <= stepDistance(city.getX(), city.getY(), pOrthodoxCapital.getX(), pOrthodoxCapital.getY()):
@@ -375,13 +375,6 @@ class Religions:
 		if utils.getScenario() == i1700AD:
 			return
 			
-		if iTech == iDivineRight:
-			bValid = False
-			if [city for city in utils.getCityList(iPlayer) if city.isHasReligion(iOrthodoxy)]:
-				gc.getPlayer(iPlayer).foundReligion(iCatholicism, iCatholicism, True)
-				
-				self.schism(gc.getGame().getHolyCity(iOrthodoxy), gc.getGame().getHolyCity(iCatholicism), [], [city for city in utils.getAllCities() if city.isHasReligion(iOrthodoxy)])
-	
 		if (iTech == iPrintingPress):
 			if (gc.getPlayer(iPlayer).getStateReligion() == iCatholicism):
 				if (not gc.getGame().isReligionFounded(iProtestantism)):

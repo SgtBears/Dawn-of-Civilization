@@ -328,7 +328,7 @@
 			<BackgroundKFM>art/LeaderHeads/RagnarLodbrok/Ragnar_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_GUSTAV</Type>
+			<Type>ART_DEF_LEADER_GUSTAV_ADOLPH</Type>
 			<Button>Art/leaderheads/Gustav adolph/Gustav.dds</Button>
 			<NIF>Art/leaderheads/Gustav adolph/napoleon.nif</NIF>
 			<KFM>Art/leaderheads/Gustav adolph/napoleon.kfm</KFM>
@@ -345,7 +345,7 @@
 		</LeaderheadArtInfo>
 		<!-- Arabia -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_HARUN</Type>
+			<Type>ART_DEF_LEADER_HARUN_AL_RASHID</Type>
 			<Button>Art/Leaderheads/Harun al-Rashid/btn_lh_arabia_harun.dds</Button>
 			<NIF>Art/Leaderheads/Harun al-Rashid/julius_caesar.nif</NIF>
 			<KFM>Art/Leaderheads/Harun al-Rashid/julius_caesar.kfm</KFM>
@@ -362,7 +362,7 @@
 		</LeaderheadArtInfo>
 		<!-- Tibet -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_SONGTSEN</Type>
+			<Type>ART_DEF_LEADER_SONGTSEN_GAMPO</Type>
 			<Button>Art/Leaderheads/Songtsen/Btn_Ogedei.dds</Button>
 			<NIF>Art/Leaderheads/Songtsen/yu.nif</NIF>
 			<KFM>Art/Leaderheads/Songtsen/wang_kon.kfm</KFM>
@@ -413,7 +413,7 @@
 		</LeaderheadArtInfo>
 		<!-- Moors -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_RAHMAN</Type>
+			<Type>ART_DEF_LEADER_ABD_AR_RAHMAN</Type>
 			<Button>Art/Leaderheads/Rahman/btn_lh_abd_al_rahman.dds</Button>
 			<NIF>Art/LeaderHeads/Rahman/suleiman.nif</NIF>
 			<KFM>Art/LeaderHeads/Rahman/suleiman.kfm</KFM>
@@ -421,7 +421,7 @@
 			<BackgroundKFM>Art/LeaderHeads/Rahman/suleiman_bg.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_YAQUB</Type>
+			<Type>ART_DEF_LEADER_YAQUB_AL_MANSUR</Type>
 			<Button>Art/LeaderHeads/Idris2/Button_Idris2.dds</Button>
 			<NIF>Art/LeaderHeads/Idris2/Suleiman.nif</NIF>
 			<KFM>Art/LeaderHeads/Idris2/Suleiman.kfm</KFM>
@@ -430,7 +430,7 @@
 		</LeaderheadArtInfo>
 		<!-- Spain -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_ISABELLA_NEW</Type>
+			<Type>ART_DEF_LEADER_ISABELLA</Type>
 			<Button>Art/Leaderheads/Isabella_new/Button/Btn_LH_Spain_Isabella.dds</Button>
 			<NIF>Art/Leaderheads/Isabella_new/isabella.nif</NIF>
 			<KFM>Art/Leaderheads/Isabella_new/isabella.kfm</KFM>
@@ -438,7 +438,7 @@
 			<BackgroundKFM>Art/Leaderheads/Isabella_new/isabella_bg.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_FILIPE</Type>
+			<Type>ART_DEF_LEADER_PHILIP</Type>
 			<Button>Art/Leaderheads/Filipe/btn_philip.dds</Button>
 			<NIF>Art/Leaderheads/Filipe/simonbolivar.nif</NIF>
 			<KFM>Art/Leaderheads/Filipe/simonbolivar.kfm</KFM>

@@ -1886,7 +1886,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_GUSTAV</LeaderName>
+					<LeaderName>LEADER_GUSTAV_ADOLPH</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -1975,7 +1975,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_HARUN</LeaderName>
+					<LeaderName>LEADER_HARUN_AL_RASHID</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -2105,7 +2105,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_SONGTSEN</LeaderName>
+					<LeaderName>LEADER_SONGTSEN_GAMPO</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -2436,11 +2436,11 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_RAHMAN</LeaderName>
+					<LeaderName>LEADER_ABD_AR_RAHMAN</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_YAQUB</LeaderName>
+					<LeaderName>LEADER_YAQUB_AL_MANSUR</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -2542,7 +2542,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_FILIPE</LeaderName>
+					<LeaderName>LEADER_PHILIP</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>

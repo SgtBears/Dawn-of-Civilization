@@ -320,7 +320,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_RAHMAN
+	LeaderType=LEADER_ABD_AR_RAHMAN
 	CivType=CIVILIZATION_MOORS
 	Team=21
 	PlayableCiv=1

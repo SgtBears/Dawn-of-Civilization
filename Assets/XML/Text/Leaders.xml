@@ -185,7 +185,7 @@
 		<English>Pedro II</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_FILIPE</Tag>
+		<Tag>TXT_KEY_LEADER_PHILIP</Tag>
 		<English>Philip II</English>
 		<French>
 			<Text>Philippe II</Text>
@@ -241,7 +241,7 @@
 		<English>Sargon</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_GUSTAV</Tag>
+		<Tag>TXT_KEY_LEADER_GUSTAV_ADOLPH</Tag>
 		<English>Gustav Adolph</English>
 	</TEXT>
 	<TEXT>
@@ -273,7 +273,7 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_HARUN</Tag>
+		<Tag>TXT_KEY_LEADER_HARUN_AL_RASHID</Tag>
 		<English>Harun al-Rashid</English>
 	</TEXT>
 	<TEXT>
@@ -435,7 +435,7 @@
 		<English>Per&#243;n</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_RAHMAN</Tag>
+		<Tag>TXT_KEY_LEADER_ABD_AR_RAHMAN</Tag>
 		<English>Abd-ar-Rahman</English>
 	</TEXT>
 	<TEXT>
@@ -483,7 +483,7 @@
 		<English>Sobieski</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_SONGTSEN</Tag>
+		<Tag>TXT_KEY_LEADER_SONGTSEN_GAMPO</Tag>
 		<English>Songtsen Gampo</English>
 	</TEXT>
 	<TEXT>
@@ -535,7 +535,7 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_YAQUB</Tag>
+		<Tag>TXT_KEY_LEADER_YAQUB_AL_MANSUR</Tag>
 		<English>Yaqub al-Mansur</English>
 	</TEXT>
 	<TEXT>
