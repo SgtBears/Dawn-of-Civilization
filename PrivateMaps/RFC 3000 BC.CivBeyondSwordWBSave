@@ -551,7 +551,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_FRANKLIN_ROOSEVELT
+	LeaderType=LEADER_ROOSEVELT
 	CivType=CIVILIZATION_AMERICA                 
 	Team=40                 
 	PlayableCiv=1               
@@ -579,7 +579,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_DOM_PEDRO
+	LeaderType=LEADER_PEDRO
 	CivType=CIVILIZATION_BRAZIL
 	Team=42
 	PlayableCiv=1
@@ -639,7 +639,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_ALP
+	LeaderType=LEADER_ALP_ARSLAN
 	CivType=CIVILIZATION_SELJUKS
 	StateReligion=RELIGION_ISLAM
 	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_THEOCRACY

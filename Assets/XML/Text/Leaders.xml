@@ -55,7 +55,7 @@
 		</Spanish>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_AFONSO</Tag>
+		<Tag>LEADER_AFONSO_HENRIQUES</Tag>
 		<English>Afonso Henriques</English>
 		<French>Alphonse Henriques</French>
 		<German>Alfons Henriques</German>
@@ -181,7 +181,7 @@
 		<English>Dharmasetu</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_DOM_PEDRO</Tag>
+		<Tag>TXT_KEY_LEADER_PEDRO</Tag>
 		<English>Pedro II</English>
 	</TEXT>
 	<TEXT>
@@ -235,6 +235,30 @@
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_FRANCO</Tag>
 		<English>Franco</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_LOUIS_XIV</Tag>
+		<English>Louis XIV</English>
+		<French>
+			<Text>Louis XIV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>Ludwig XIV.</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</German>
+		<Italian>
+			<Text>Luigi XIV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Luis XIV</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_LEADER_SARGON</Tag>
@@ -297,7 +321,7 @@
 		<English>Hongwu</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_IBN_TUGHLUQ</Tag>
+		<Tag>TXT_KEY_LEADER_MUHAMMAD_IBN_TUGHLUQ</Tag>
 		<English>Muhammad ibn Tughluq</English>
 	</TEXT>
 	<TEXT>
@@ -350,7 +374,7 @@
 		<English>Lobsang Gyatso</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_LORENZO</Tag>
+		<Tag>TXT_KEY_LEADER_LORENZO_DE_MEDICI</Tag>
 		<English>Lorenzo de' Medici</English>
 	</TEXT>
 	<TEXT>
@@ -539,7 +563,7 @@
 		<English>Yaqub al-Mansur</English>
 	</TEXT>
 	<TEXT>
-		<Tag>TXT_KEY_LEADER_BHUTTO</Tag>
+		<Tag>TXT_KEY_LEADER_BENAZIR_BHUTTO</Tag>
 		<English>Benazir Bhutto</English>
 	</TEXT>
 	<TEXT>

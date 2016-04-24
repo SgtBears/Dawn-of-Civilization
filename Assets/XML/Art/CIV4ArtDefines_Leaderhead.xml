@@ -562,7 +562,7 @@
 			<BackgroundKFM>art/LeaderHeads/Peter_the_Great/peter_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_CATHERINE_NEW</Type>
+			<Type>ART_DEF_LEADER_CATHERINE</Type>
 			<Button>Art/Leaderheads/catherine_new/Btn_LH_Russia_Catherine.dds</Button>
 			<NIF>Art/Leaderheads/catherine_new/catherine.nif</NIF>
 			<KFM>Art/Leaderheads/catherine_new/catherine.kfm</KFM>
@@ -629,7 +629,7 @@
 		</LeaderheadArtInfo>
 		<!-- Portugal -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_AFONSO</Type>
+			<Type>ART_DEF_LEADER_AFONSO_HENRIQUES</Type>
 			<Button>Art/leaderheads/Afonso/AfonsoHenriques.dds</Button>
 			<NIF>Art/leaderheads/Afonso/Pericles.nif</NIF>
 			<KFM>Art/leaderheads/Afonso/Pericles.kfm</KFM>
@@ -671,7 +671,7 @@
 		</LeaderheadArtInfo>
 		<!-- Italy -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_LORENZO</Type>
+			<Type>ART_DEF_LEADER_LORENZO_DE_MEDICI</Type>
 			<Button>art/LeaderHeads/Sforza/btn_lh_genoa_boccanegra.dds</Button>
 			<NIF>art/LeaderHeads/Sforza/Charlemagne.nif</NIF>
 			<KFM>art/LeaderHeads/Sforza/Charlemagne.kfm</KFM>
@@ -722,7 +722,7 @@
 		</LeaderheadArtInfo>
 		<!-- Mughals -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_IBN_TUGHLUQ</Type>
+			<Type>ART_DEF_LEADER_MUHAMMAD_IBN_TUGHLUQ</Type>
 			<Button>Art/Leaderheads/Qutbuddin/Tughluq.dds</Button>
 			<NIF>art/Leaderheads/Qutbuddin/qutb.nif</NIF>
 			<KFM>art/Leaderheads/Qutbuddin/montezuma.kfm</KFM>
@@ -738,7 +738,7 @@
 			<BackgroundKFM>Art/leaderheads/Akbar/Zara Yaqob_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_BHUTTO</Type>
+			<Type>ART_DEF_LEADER_BENAZIR_BHUTTO</Type>
 			<Button>art/LeaderHeads/Bhutto/bhutto.dds</Button>
 			<NIF>art/LeaderHeads/Bhutto/Bhutto.nif</NIF>
 			<KFM>art/LeaderHeads/Bhutto/Bhutto.kfm</KFM>
@@ -873,7 +873,7 @@
 			<BackgroundKFM>art/LeaderHeads/Abraham Lincoln/Abraham Lincoln_BG.kfm</BackgroundKFM>
 		</LeaderheadArtInfo>
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_FRANKLIN_ROOSEVELT</Type>
+			<Type>ART_DEF_LEADER_ROOSEVELT</Type>
 			<Button>,Art/interface/LeaderHeads/Btn_LH_America_Roosevelt.dds,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,2,12</Button>
 			<NIF>art/LeaderHeads/FDR/fdr.nif</NIF>
 			<KFM>art/LeaderHeads/FDR/fdr.kfm</KFM>
@@ -933,7 +933,7 @@
 		</LeaderheadArtInfo>
 		<!-- Brazil -->
 		<LeaderheadArtInfo>
-			<Type>ART_DEF_LEADER_DOM_PEDRO</Type>
+			<Type>ART_DEF_LEADER_PEDRO</Type>
 			<Button>art/Leaderheads/DomPedro/Btn_LH_Pedro.dds</Button>
 			<NIF>art/Leaderheads/DomPedro/napoleon.nif</NIF>
 			<KFM>art/Leaderheads/DomPedro/napoleon.kfm</KFM>

@@ -29147,7 +29147,7 @@
 		<!-- France -->
 		<LeaderHeadInfo>
 			<Type>LEADER_CHARLEMAGNE</Type>
-			<Description>TXT_KEY_LEADER_CHARLEMAGNE</Description> <!--Sgtbears start here-->
+			<Description>TXT_KEY_LEADER_CHARLEMAGNE</Description>
 			<Civilopedia>TXT_KEY_LEADER_CHARLEMAGNE_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_CHARLEMAGNE</ArtDefineTag>
 			<iWonderConstructRand>15</iWonderConstructRand>
@@ -29692,8 +29692,8 @@
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
 			<Type>LEADER_LOUIS_XIV</Type>
-			<Description>TXT_KEY_LEADER_LOUISXIV</Description>
-			<Civilopedia>TXT_KEY_LEADER_LOUISXIV_PEDIA</Civilopedia>
+			<Description>TXT_KEY_LEADER_LOUIS_XIV</Description>
+			<Civilopedia>TXT_KEY_LEADER_LOUIS_XIV_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_LOUIS_XIV</ArtDefineTag>
 			<iWonderConstructRand>50</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
@@ -33001,7 +33001,7 @@
 		<LeaderHeadInfo>
 			<Type>LEADER_CHURCHILL</Type>
 			<Description>TXT_KEY_LEADER_CHURCHILL</Description>
-			<Civilopedia>TXT_KEY_LEADER_WINSTON_CHURCHILL_PEDIA</Civilopedia>
+			<Civilopedia>TXT_KEY_LEADER_CHURCHILL_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_CHURCHILL</ArtDefineTag>
 			<iWonderConstructRand>10</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
@@ -36311,7 +36311,7 @@
 			<Type>LEADER_CATHERINE</Type>
 			<Description>TXT_KEY_LEADER_CATHERINE</Description>
 			<Civilopedia>TXT_KEY_LEADER_CATHERINE_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_CATHERINE_NEW</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_LEADER_CATHERINE</ArtDefineTag>
 			<iWonderConstructRand>30</iWonderConstructRand>
 			<iBaseAttitude>1</iBaseAttitude>
 			<iBasePeaceWeight>2</iBasePeaceWeight>
@@ -37399,7 +37399,7 @@
 		<LeaderHeadInfo>
 			<Type>LEADER_STALIN</Type>
 			<Description>TXT_KEY_LEADER_STALIN</Description>
-			<Civilopedia>TXT_KEY_LEADER_JOSEF_STALIN_PEDIA</Civilopedia>
+			<Civilopedia>TXT_KEY_LEADER_STALIN_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_STALIN</ArtDefineTag>
 			<iWonderConstructRand>30</iWonderConstructRand>
 			<iBaseAttitude>-1</iBaseAttitude>
@@ -40697,10 +40697,10 @@
 		</LeaderHeadInfo>
 		<!-- Portugal -->
 		<LeaderHeadInfo>
-			<Type>LEADER_AFONSO</Type> <!-- Predefined Personality -->
-			<Description>TXT_KEY_LEADER_AFONSO</Description>
-			<Civilopedia>TXT_KEY_LEADER_AFONSO_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_AFONSO</ArtDefineTag>
+			<Type>LEADER_AFONSO_HENRIQUES</Type> <!-- Predefined Personality -->
+			<Description>TXT_KEY_LEADER_AFONSO_HENRIQUES</Description>
+			<Civilopedia>TXT_KEY_LEADER_AFONSO_HENRIQUES_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_AFONSO_HENRIQUES</ArtDefineTag>
 			<iWonderConstructRand>40</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>2</iBasePeaceWeight>
@@ -43467,10 +43467,10 @@
 		</LeaderHeadInfo>
 		<!-- Italy -->
 		<LeaderHeadInfo>
-			<Type>LEADER_LORENZO</Type>
-			<Description>TXT_KEY_LEADER_LORENZO</Description>
-			<Civilopedia>TXT_KEY_LEADER_LORENZO_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_LORENZO</ArtDefineTag>
+			<Type>LEADER_LORENZO_DE_MEDICI</Type>
+			<Description>TXT_KEY_LEADER_LORENZO_DE_MEDICI</Description>
+			<Civilopedia>TXT_KEY_LEADER_LORENZO_DE_MEDICI_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_LORENZO_DE_MEDICI</ArtDefineTag>
 			<iWonderConstructRand>50</iWonderConstructRand>
 			<iBaseAttitude>1</iBaseAttitude>
 			<iBasePeaceWeight>6</iBasePeaceWeight>
@@ -46750,10 +46750,10 @@
 		</LeaderHeadInfo>
 		<!-- Mughals -->
 		<LeaderHeadInfo>
-			<Type>LEADER_IBN_TUGHLUQ</Type> <!-- Personality: Kublai Khan -->
-			<Description>TXT_KEY_LEADER_IBN_TUGHLUQ</Description>
-			<Civilopedia>TXT_KEY_LEADER_IBN_TUGHLUQ_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_IBN_TUGHLUQ</ArtDefineTag>
+			<Type>LEADER_MUHAMMAD_IBN_TUGHLUQ</Type> <!-- Personality: Kublai Khan -->
+			<Description>TXT_KEY_LEADER_MUHAMMAD_IBN_TUGHLUQ</Description>
+			<Civilopedia>TXT_KEY_LEADER_MUHAMMAD_IBN_TUGHLUQ_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_MUHAMMAD_IBN_TUGHLUQ</ArtDefineTag>
 			<iWonderConstructRand>15</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>1</iBasePeaceWeight>
@@ -47840,10 +47840,10 @@
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
-			<Type>LEADER_BHUTTO</Type>
-			<Description>TXT_KEY_LEADER_BHUTTO</Description>
-			<Civilopedia>TXT_KEY_LEADER_BHUTTO_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_BHUTTO</ArtDefineTag>
+			<Type>LEADER_BENAZIR_BHUTTO</Type>
+			<Description>TXT_KEY_LEADER_BENAZIR_BHUTTO</Description>
+			<Civilopedia>TXT_KEY_LEADER_BENAZIR_BHUTTO_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_BENAZIR_BHUTTO</ArtDefineTag>
 			<iWonderConstructRand>10</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>4</iBasePeaceWeight>
@@ -48372,7 +48372,7 @@
 		<LeaderHeadInfo>
 			<Type>LEADER_MEHMED</Type>
 			<Description>TXT_KEY_LEADER_MEHMED</Description>
-			<Civilopedia>TXT_KEY_LEADER_MEHMED_II_PEDIA</Civilopedia>
+			<Civilopedia>TXT_KEY_LEADER_MEHMED_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_MEHMED</ArtDefineTag>
 			<iWonderConstructRand>25</iWonderConstructRand>
 			<iBaseAttitude>-1</iBaseAttitude>
@@ -56630,10 +56630,10 @@
 			</DiplomacyMusicWar>
 		</LeaderHeadInfo>
 		<LeaderHeadInfo>
-			<Type>LEADER_FRANKLIN_ROOSEVELT</Type>
+			<Type>LEADER_ROOSEVELT</Type>
 			<Description>TXT_KEY_LEADER_ROOSEVELT</Description>
 			<Civilopedia>TXT_KEY_LEADER_ROOSEVELT_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_FRANKLIN_ROOSEVELT</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_LEADER_ROOSEVELT</ArtDefineTag>
 			<iWonderConstructRand>20</iWonderConstructRand>
 			<iBaseAttitude>1</iBaseAttitude>
 			<iBasePeaceWeight>8</iBasePeaceWeight>
@@ -60528,10 +60528,10 @@
 		</LeaderHeadInfo>
 		<!-- Brazil -->
 		<LeaderHeadInfo>
-			<Type>LEADER_DOM_PEDRO</Type>
-			<Description>TXT_KEY_LEADER_DOM_PEDRO</Description>
-			<Civilopedia>TXT_KEY_LEADER_DOM_PEDRO_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_DOM_PEDRO</ArtDefineTag>
+			<Type>LEADER_PEDRO</Type>
+			<Description>TXT_KEY_LEADER_PEDRO</Description>
+			<Civilopedia>TXT_KEY_LEADER_PEDRO_PEDIA</Civilopedia>
+			<ArtDefineTag>ART_DEF_LEADER_PEDRO</ArtDefineTag>
 			<iWonderConstructRand>30</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>8</iBasePeaceWeight>
@@ -63284,7 +63284,7 @@
 		</LeaderHeadInfo>
 		<!-- Seljuks -->
 		<LeaderHeadInfo>
-			<Type>LEADER_ALP</Type>
+			<Type>LEADER_ALP_ARSLAN</Type>
 			<Description>TXT_KEY_LEADER_ALP_ARSLAN</Description>
 			<Civilopedia>TXT_KEY_LEADER_ALP_ARSLAN_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_LEADER_BARBARIAN</ArtDefineTag>
@@ -64045,7 +64045,7 @@
 			<Type>LEADER_INDEPENDENT</Type>
 			<Description>TXT_KEY_LEADER_INDEPENDENT</Description>
 			<Civilopedia>TXT_KEY_LEADER_INDEPENDENT_PEDIA</Civilopedia>
-			<ArtDefineTag>ART_DEF_LEADER_PETER</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_LEADER_BARBARIAN</ArtDefineTag>
 			<iWonderConstructRand>30</iWonderConstructRand>
 			<iBaseAttitude>0</iBaseAttitude>
 			<iBasePeaceWeight>1</iBasePeaceWeight>

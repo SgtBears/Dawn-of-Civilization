@@ -572,7 +572,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_DOM_PEDRO
+	LeaderType=LEADER_PEDRO
 	CivType=CIVILIZATION_BRAZIL
 	Team=42
 	PlayableCiv=1
@@ -634,7 +634,7 @@ BeginPlayer
 	Handicap=HANDICAP_REGENT                 
 EndPlayer
 BeginPlayer
-	LeaderType=LEADER_ALP
+	LeaderType=LEADER_ALP_ARSLAN
 	CivType=CIVILIZATION_SELJUKS
 	StateReligion=RELIGION_ISLAM
 	Team=48

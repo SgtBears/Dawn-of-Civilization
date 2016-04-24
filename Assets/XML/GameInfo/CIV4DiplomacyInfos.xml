@@ -63,7 +63,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_DOM_PEDRO</LeaderType>
+							<LeaderType>LEADER_PEDRO</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -193,14 +193,14 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_FRANKLIN_ROOSEVELT</LeaderType>
+							<LeaderType>LEADER_ROOSEVELT</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
 					<Attitudes/>
 					<DiplomacyPowers/>
 					<DiplomacyText>
-						<Text>AI_DIPLO_FIRST_CONTACT_LEADER_FRANKLIN_ROOSEVELT_1</Text>
+						<Text>AI_DIPLO_FIRST_CONTACT_LEADER_ROOSEVELT_1</Text>
 					</DiplomacyText>
 				</Response>
 				<Response>
@@ -997,7 +997,7 @@
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_AFONSO</LeaderType>
+							<LeaderType>LEADER_AFONSO_HENRIQUES</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
@@ -1049,7 +1049,7 @@
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_IBN_TUGHLUQ</LeaderType>
+							<LeaderType>LEADER_MUHAMMAD_IBN_TUGHLUQ</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
@@ -1085,7 +1085,7 @@
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 						<Leader>
-							<LeaderType>LEADER_LORENZO</LeaderType>
+							<LeaderType>LEADER_LORENZO_DE_MEDICI</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -1118,7 +1118,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_DOM_PEDRO</LeaderType>
+							<LeaderType>LEADER_PEDRO</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -1486,14 +1486,14 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_FRANKLIN_ROOSEVELT</LeaderType>
+							<LeaderType>LEADER_ROOSEVELT</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
 					<Attitudes/>
 					<DiplomacyPowers/>
 					<DiplomacyText>
-						<Text>AI_DIPLO_REFUSE_TO_TALK_LEADER_FRANKLIN_ROOSEVELT_1</Text>
+						<Text>AI_DIPLO_REFUSE_TO_TALK_LEADER_ROOSEVELT_1</Text>
 					</DiplomacyText>
 				</Response>
 				<Response>
@@ -1944,7 +1944,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_DOM_PEDRO</LeaderType>
+							<LeaderType>LEADER_PEDRO</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -1972,14 +1972,14 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_FRANKLIN_ROOSEVELT</LeaderType>
+							<LeaderType>LEADER_ROOSEVELT</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
 					<Attitudes/>
 					<DiplomacyPowers/>
 					<DiplomacyText>
-						<Text>AI_DIPLO_NO_PEACE_LEADER_FRANKLIN_ROOSEVELT_1</Text>
+						<Text>AI_DIPLO_NO_PEACE_LEADER_ROOSEVELT_1</Text>
 					</DiplomacyText>
 				</Response>
 				<Response>
@@ -2746,7 +2746,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_DOM_PEDRO</LeaderType>
+							<LeaderType>LEADER_PEDRO</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -2854,7 +2854,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_FRANKLIN_ROOSEVELT</LeaderType>
+							<LeaderType>LEADER_ROOSEVELT</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -2874,7 +2874,7 @@
 					</Attitudes>
 					<DiplomacyPowers/>
 					<DiplomacyText>
-						<Text>AI_DIPLO_GREETINGS_ATT_FR_LEADER_FRANKLIN_ROOSEVELT_1</Text>
+						<Text>AI_DIPLO_GREETINGS_ATT_FR_LEADER_ROOSEVELT_1</Text>
 					</DiplomacyText>
 				</Response>
 				<Response>
@@ -4291,7 +4291,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_DOM_PEDRO</LeaderType>
+							<LeaderType>LEADER_PEDRO</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -4383,7 +4383,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_FRANKLIN_ROOSEVELT</LeaderType>
+							<LeaderType>LEADER_ROOSEVELT</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -4399,7 +4399,7 @@
 					</Attitudes>
 					<DiplomacyPowers/>
 					<DiplomacyText>
-						<Text>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_FRANKLIN_ROOSEVELT_1</Text>
+						<Text>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ROOSEVELT_1</Text>
 					</DiplomacyText>
 				</Response>
 				<Response>
@@ -6401,7 +6401,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_DOM_PEDRO</LeaderType>
+							<LeaderType>LEADER_PEDRO</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -6439,7 +6439,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_FRANKLIN_ROOSEVELT</LeaderType>
+							<LeaderType>LEADER_ROOSEVELT</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -6451,7 +6451,7 @@
 						</DiplomacyPower>
 					</DiplomacyPowers>
 					<DiplomacyText>
-						<Text>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_FRANKLIN_ROOSEVELT_1</Text>
+						<Text>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ROOSEVELT_1</Text>
 					</DiplomacyText>
 				</Response>
 				<Response>
@@ -7390,7 +7390,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_DOM_PEDRO</LeaderType>
+							<LeaderType>LEADER_PEDRO</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -7428,7 +7428,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_FRANKLIN_ROOSEVELT</LeaderType>
+							<LeaderType>LEADER_ROOSEVELT</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -7440,7 +7440,7 @@
 						</DiplomacyPower>
 					</DiplomacyPowers>
 					<DiplomacyText>
-						<Text>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_FRANKLIN_ROOSEVELT_1</Text>
+						<Text>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ROOSEVELT_1</Text>
 					</DiplomacyText>
 				</Response>
 				<Response>
@@ -8384,7 +8384,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_DOM_PEDRO</LeaderType>
+							<LeaderType>LEADER_PEDRO</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -8422,7 +8422,7 @@
 					<Civilizations/>
 					<Leaders>
 						<Leader>
-							<LeaderType>LEADER_FRANKLIN_ROOSEVELT</LeaderType>
+							<LeaderType>LEADER_ROOSEVELT</LeaderType>
 							<bLeaderType>1</bLeaderType>
 						</Leader>
 					</Leaders>
@@ -8434,7 +8434,7 @@
 						</DiplomacyPower>
 					</DiplomacyPowers>
 					<DiplomacyText>
-						<Text>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_FRANKLIN_ROOSEVELT_1</Text>
+						<Text>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ROOSEVELT_1</Text>
 					</DiplomacyText>
 				</Response>
 				<Response>

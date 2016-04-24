@@ -491,7 +491,7 @@ class CvPediaMain( CvPediaScreen.CvPediaScreen ):
 			tList.pop(con.iIndependentLeader)
 			tList.pop(con.iBrennus)
 			tList.pop(con.iBoudica)
-			tList.pop(con.iLeaderBarbarian)
+			tList.pop(con.iBarbarianLeader)
 		if (widgeyType == WidgetTypes.WIDGET_PEDIA_JUMP_TO_CIV):
 			tList.pop(con.iCivNative)
 			tList.pop(con.iCivIndependent2)

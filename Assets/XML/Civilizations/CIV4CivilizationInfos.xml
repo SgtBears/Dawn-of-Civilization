@@ -3344,7 +3344,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_AFONSO</LeaderName>
+					<LeaderName>LEADER_AFONSO_HENRIQUES</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -3553,7 +3553,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_LORENZO</LeaderName>
+					<LeaderName>LEADER_LORENZO_DE_MEDICI</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -3878,7 +3878,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_IBN_TUGHLUQ</LeaderName>
+					<LeaderName>LEADER_MUHAMMAD_IBN_TUGHLUQ</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -3886,7 +3886,7 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_BHUTTO</LeaderName>
+					<LeaderName>LEADER_BENAZIR_BHUTTO</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -4662,11 +4662,11 @@
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_FRANKLIN_ROOSEVELT</LeaderName>
+					<LeaderName>LEADER_LINCOLN</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
-					<LeaderName>LEADER_LINCOLN</LeaderName>
+					<LeaderName>LEADER_ROOSEVELT</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>
@@ -5048,7 +5048,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_DOM_PEDRO</LeaderName>
+					<LeaderName>LEADER_PEDRO</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 				<Leader>
@@ -6275,7 +6275,7 @@
 			</InitialCivics>
 			<Leaders>
 				<Leader>
-					<LeaderName>LEADER_ALP</LeaderName>
+					<LeaderName>LEADER_ALP_ARSLAN</LeaderName>
 					<bLeaderAvailability>1</bLeaderAvailability>
 				</Leader>
 			</Leaders>

@@ -1674,7 +1674,7 @@ iSuharto, iRahman, iYaqub, iIsabella, iPhilip, iFranco, iCharlemagne, iLouis, iN
 iCharles, iFrancis, iIvan, iPeter, iCatherine, iNicholas, iStalin, iMansaMusa, iCasimir, iSobieski, iPilsudski, iWalesa, iAfonso, iJoao, iMaria, iHuaynaCapac,
 iCastilla, iLorenzo, iCavour, iMussolini, iGenghisKhan, iKublaiKhan, iMontezuma, iTughluq, iAkbar, iBhutto, iMehmed, iSuleiman, iAtaturk, iNaresuan, iMongkut, iMbemba,
 iAbbas, iKhomeini, iWillemVanOranje, iWilliam, iFrederick, iBismarck, iHitler, iWashington, iLincoln, iRoosevelt, iSanMartin, iPeron, iSantaAnna, iJuarez, iCardenas, iBolivar,
-iPedro, iVargas, iMacDonald, iTrudeau, iBrennus, iAlpArslan, iNativeLeader, iIndependentLeader, iLeaderBarbarian, iSittingBull, iBoudica, iAbuBakr) = range(iNumLeaders)
+iPedro, iVargas, iMacDonald, iTrudeau, iBrennus, iAlpArslan, iNativeLeader, iIndependentLeader, iBarbarianLeader, iSittingBull, iBoudica, iAbuBakr) = range(iNumLeaders)
 
 resurrectionLeaders = {
 	iChina : iHongwu,

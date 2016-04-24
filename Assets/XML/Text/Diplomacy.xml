@@ -551,4 +551,68 @@
 		<Italian>Non permettere che la tua stupidit&#224; possa condannare la tua gente [CT_NAME]. Dacci ci&#242; che desideriamo o ti distruggeremo!</Italian>
 		<Spanish>No dej&#233;is que el orgullo est&#250;pido provoque la ca&#237;da de vuestro pueblo, [CT_NAME]. Pagadnos lo que queremos... &#161;o ser&#233;is destruidos!</Spanish>
 	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ROOSEVELT_1</Tag>
+		<English>Greetings! I am [OUR_NAME] of the [OUR_EMPIRE]. I hope that our two great peoples can live together in peace.</English>
+		<French>Salutations ! Je suis [OUR_NAME], je r&#232;gne sur l'[OUR_EMPIRE]. Je souhaite que nos deux grands peuples puissent vivre en paix.</French>
+		<German>Seid gegr&#252;&#223;t! Ich bin [OUR_NAME], Staatsoberhaupt des [OUR_EMPIRE:3]es. Ich hoffe, unsere gro&#223;artigen V&#246;lker werden in Frieden zusammenleben.</German>
+		<Italian>Saluti! Io sono [OUR_NAME] dell'[OUR_EMPIRE]. Spero che i nostri due grandi popoli possano vivere in pace.</Italian>
+		<Spanish>Saludos. &#161;Soy [OUR_NAME], del [OUR_EMPIRE]! Espero que nuestros dos grandes pueblos puedan vivir en paz.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_ROOSEVELT_1</Tag>
+		<English>[OUR_EMPIRE] does not negotiate with terrorists.</English>
+		<French>L'[OUR_EMPIRE] ne n&#233;gocie pas avec les terroristes.</French>
+		<German>Das [OUR_EMPIRE:2] verhandelt nicht mit Terroristen!</German>
+		<Italian>L'[OUR_EMPIRE] non negozia con i terroristi.</Italian>
+		<Spanish>El [OUR_EMPIRE] no negocia con terroristas.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_ROOSEVELT_1</Tag>
+		<English>Certainly not! You've awoken a sleeping tiger, [CT_NAME], and I hope you choke on it.</English>
+		<French>Certainement pas ! Vous avez r&#233;veill&#233; le tigre endormi, [CT_NAME], et j'esp&#232;re que vous allez vous &#233;trangler avec.</French>
+		<German>Ganz sicher nicht! Ihr habt schlafende Hunde geweckt, [CT_NAME], und ich hoffe, sie bei&#223;en Euch!</German>
+		<Italian>Certo che no! Hai svegliato il can che dorme, [CT_NAME], e ora la pagherai cara.</Italian>
+		<Spanish>&#161;Por supuesto que no! Hab&#233;is despertado al tigre, [CT_NAME], y espero que se os atragante.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_ROOSEVELT_1</Tag>
+		<English>How absolutely marvey to see you again, [CT_NAME]! Do sit down; my man will get you a Martini.</English>
+		<French>Je suis positivement ravi de vous revoir, [CT_NAME] ! Prenez un si&#232;ge, mon domestique va vous servir un Martini.</French>
+		<German>Ich bin entz&#252;ckt, Euch wiederzusehen, [CT_NAME]! Nehmt Platz, ich lasse Euch einen Martini bringen.</German>
+		<Italian>&#200; una sorpresa eccezionale vederti di nuovo, [CT_NAME]! Siediti, ti far&#242; portare un Martini.</Italian>
+		<Spanish>&#161;Volver a veros es una aut&#233;ntica delicia, [CT_NAME]! Sentaos, mi criado os pondr&#225; un Martini.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ROOSEVELT_1</Tag>
+		<English>Come to add to our troubles, have you? Well, get on with it then.</English>
+		<French>Vous ne croyez pas que nous avons d&#233;j&#224; assez d'ennuis comme &#231;a ? Bien... allez-y, j'&#233;coute.</French>
+		<German>Ihr wollt Euch unbedingt noch mehr &#196;rger einhandeln, oder? Also sch&#246;n, dann sprecht!</German>
+		<Italian>Sei qui per procurarci altri guai? Beh, allora vai avanti.</Italian>
+		<Spanish>Hab&#233;is venido a acrecentar nuestros problemas, &#191;no? Bueno, pues adelante con ello.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ROOSEVELT_1</Tag>
+		<English>The only thing you have to fear is the terrible consequence of not giving me what I want.</English>
+		<French>La seule chose que vous ayez &#224; craindre, ce sont les terribles cons&#233;quences qu'entra&#238;nerait un refus de votre part.</French>
+		<German>Das Einzige, was Ihr zu bef&#252;rchten habt, sind die schrecklichen Folgen, die Euch erwarten, wenn Ihr mir verweigert, was ich verlange!</German>
+		<Italian>L'unica cosa che devi temere saranno le conseguenze del non averci dato ci&#242; che vogliamo.</Italian>
+		<Spanish>Lo &#250;nico que deb&#233;is temer son las terribles consecuencias de no darnos lo que queremos.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ROOSEVELT_1</Tag>
+		<English>Hello, [CT_NAME]! The price of freedom has just gone up.</English>
+		<French>Bonjour, [CT_NAME] ! Le prix de la libert&#233; vient d'augmenter.</French>
+		<German>Hallo, [CT_NAME]! Der Preis f&#252;r die Wahrung des Friedens ist soeben gestiegen!</German>
+		<Italian>Salve, [CT_NAME]! Il prezzo della libert&#224; &#232; aumentato.</Italian>
+		<Spanish>&#161;Hola, [CT_NAME]! El precio de la libertad acaba de subir.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ROOSEVELT_1</Tag>
+		<English>That certainly is a nice little civilization you have there, [CT_NAME]. It would be unfortunate if something were to happen to it...</English>
+		<French>Vous avez une charmante petite civilisation, [CT_NAME]. Il serait vraiment regrettable qu'il lui arrive malheur...</French>
+		<German>Ihr habt da eine nette kleine Zivilisation, [CT_NAME]. Es w&#228;re doch ein Jammer, wenn ihr irgendein Unheil zuteil werden w&#252;rde ...</German>
+		<Italian>La tua civilt&#224; &#232; proprio piccola, [CT_NAME]. Sarebbe un peccato se le succedesse qualcosa...</Italian>
+		<Spanish>Ten&#233;is una civilizaci&#243;n de lo m&#225;s maja, [CT_NAME]. Ser&#237;a una l&#225;stima que le pasara algo malo...</Spanish>
+	</TEXT>
 </Civ4GameText>
