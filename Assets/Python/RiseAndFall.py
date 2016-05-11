@@ -3542,120 +3542,120 @@ class RiseAndFall:
 	
 		# China
 		tCapital = tBeijing
-	#	utils.makeUnit(iMusketman, iChina, tCapital, 12)
-	#	utils.makeUnit(iBombard, iChina, tCapital, 5)
+#		utils.makeUnit(iMusketman, iChina, tCapital, 12)
+#		utils.makeUnit(iBombard, iChina, tCapital, 5)
 		
 		# India
 		tCapital = tMumbai
-	#	utils.makeUnit(iMusketman, iIndia, tCapital, 8)
-	#	utils.makeUnit(iBombard, iIndia, tCapital, 5)
-	#	utils.makeUnit(iCuirassier, iIndia, tCapital, 3)
+#		utils.makeUnit(iMusketman, iIndia, tCapital, 8)
+#		utils.makeUnit(iBombard, iIndia, tCapital, 5)
+#		utils.makeUnit(iCuirassier, iIndia, tCapital, 3)
 		
 		# Tamils
 		tCapital = tMysore
-	#	utils.makeUnit(iMusketman, iTamils, tCapital, 6)
-	#	utils.makeUnit(iBombard, iTamils, tCapital, 4)
+#		utils.makeUnit(iMusketman, iTamils, tCapital, 6)
+#		utils.makeUnit(iBombard, iTamils, tCapital, 4)
 		
 		# Persia
 		tCapital = tEsfahan
-	#	utils.makeUnit(iIranianQizilbash, iPersia, tCapital, 10)
-	#	utils.makeUnit(iBombard, iPersia, tCapital, 4)
+#		utils.makeUnit(iIranianQizilbash, iPersia, tCapital, 10)
+#		utils.makeUnit(iBombard, iPersia, tCapital, 4)
 		
 		# Korea
 		tCapital = Areas.getCapital(iKorea)
-	#	utils.makeUnit(iMusketman, iKorea, tCapital, 6)
-	#	utils.makeUnit(iBombard, iKorea, tCapital, 4)
+#		utils.makeUnit(iMusketman, iKorea, tCapital, 6)
+#		utils.makeUnit(iBombard, iKorea, tCapital, 4)
 		
 		# Japan
 		tCapital = Areas.getCapital(iJapan)
-	#	utils.makeUnit(iMusketman, iJapan, tCapital, 10)
-	#	utils.makeUnit(iBombard, iJapan, tCapital, 4)
+#		utils.makeUnit(iMusketman, iJapan, tCapital, 10)
+#		utils.makeUnit(iBombard, iJapan, tCapital, 4)
 		if utils.getHumanID() != iJapan:
 			utils.makeUnit(iSettler, iJapan, tCapital, 1)
 		
 		# Vikings
 		tCapital = tStockholm
-	#	utils.makeUnit(iMusketman, iVikings, tCapital, 8)
-	#	utils.makeUnit(iBombard, iVikings, tCapital, 4)
+#		utils.makeUnit(iMusketman, iVikings, tCapital, 8)
+#		utils.makeUnit(iBombard, iVikings, tCapital, 4)
 		
 		# Spain
 		tCapital = Areas.getCapital(iSpain)
-	#	utils.makeUnit(iMusketman, iSpain, tCapital, 6)
-	#	utils.makeUnit(iSpanishConquistador, iSpain, tCapital, 4)
-	#	utils.makeUnit(iBombard, iSpain, tCapital, 2)
+#		utils.makeUnit(iMusketman, iSpain, tCapital, 6)
+#		utils.makeUnit(iSpanishConquistador, iSpain, tCapital, 4)
+3		utils.makeUnit(iBombard, iSpain, tCapital, 2)
 		
 		# France
 		tCapital = Areas.getCapital(iFrance)
-	#	utils.makeUnit(iRifleman, iFrance, tCapital, 12)
-	#	utils.makeUnit(iCuirassier, iFrance, tCapital, 4)
-	#	utils.makeUnit(iFrenchHeavyCannon, iFrance, tCapital, 5)
+#		utils.makeUnit(iRifleman, iFrance, tCapital, 12)
+#		utils.makeUnit(iCuirassier, iFrance, tCapital, 4)
+#		utils.makeUnit(iFrenchHeavyCannon, iFrance, tCapital, 5)
 		
 		# England
 		tCapital = Areas.getCapital(iEngland)
-	#	utils.makeUnit(iEnglishRedcoat, iEngland, tCapital, 8)
-	#	utils.makeUnit(iCannon, iEngland, tCapital, 4)
-	#	utils.makeUnit(iGalleon, iEngland, tCapital, 4)
+#		utils.makeUnit(iEnglishRedcoat, iEngland, tCapital, 8)
+#		utils.makeUnit(iCannon, iEngland, tCapital, 4)
+#		utils.makeUnit(iGalleon, iEngland, tCapital, 4)
 		
 		# Austria
 		tCapital = tVienna
-	#	utils.makeUnit(iRifleman, iHolyRome, tCapital, 6)
-	#	utils.makeUnit(iCannon, iHolyRome, tCapital, 2)
+#		utils.makeUnit(iRifleman, iHolyRome, tCapital, 6)
+#		utils.makeUnit(iCannon, iHolyRome, tCapital, 2)
 		
 		# Russia
 		tCapital = Areas.getCapital(iRussia)
-	#	utils.makeUnit(iMusketman, iRussia, tCapital, 8)
-	#	utils.makeUnit(iCuirassier, iRussia, tCapital, 4)
-	#	utils.makeUnit(iBombard, iRussia, tCapital, 4)
+#		utils.makeUnit(iMusketman, iRussia, tCapital, 8)
+#		utils.makeUnit(iCuirassier, iRussia, tCapital, 4)
+#		utils.makeUnit(iBombard, iRussia, tCapital, 4)
 		
 		# Poland
 		tCapital = tWarsaw
-	#	utils.makeUnit(iMusketman, iPoland, tCapital, 4)
-	#	utils.makeUnit(iPolishWingedHussar, iPoland, tCapital, 6)
-	#	utils.makeUnit(iBombard, iPoland, tCapital, 2)
+#		utils.makeUnit(iMusketman, iPoland, tCapital, 4)
+#		utils.makeUnit(iPolishWingedHussar, iPoland, tCapital, 6)
+#		utils.makeUnit(iBombard, iPoland, tCapital, 2)
 		
 		# Portugal
 		tCapital = Areas.getCapital(iPortugal)
-	#	utils.makeUnit(iMusketman, iPortugal, tCapital, 6)
-	#	utils.makeUnit(iBombard, iPortugal, tCapital, 2)
-	#	utils.makeUnit(iGalleon, iPortugal, tCapital, 3)
+#		utils.makeUnit(iMusketman, iPortugal, tCapital, 6)
+#		utils.makeUnit(iBombard, iPortugal, tCapital, 2)
+#		utils.makeUnit(iGalleon, iPortugal, tCapital, 3)
 		
 		# Mughals
 		tCapital = Areas.getCapital(iMughals)
-	#	utils.makeUnit(iMusketman, iMughals, tCapital, 5)
-	#	utils.makeUnit(iPikeman, iMughals, tCapital, 2)
-	#	utils.makeUnit(iMughalSiegeElephant, iMughals, tCapital, 2)
+#		utils.makeUnit(iMusketman, iMughals, tCapital, 5)
+#		utils.makeUnit(iPikeman, iMughals, tCapital, 2)
+#		utils.makeUnit(iMughalSiegeElephant, iMughals, tCapital, 2)
 		
 		# Turkey
 		tCapital = tIstanbul
-	#	utils.makeUnit(iOttomanJanissary, iTurkey, tCapital, 10)
-	#	utils.makeUnit(iCuirassier, iTurkey, tCapital, 4)
-	#	utils.makeUnit(iBombard, iTurkey, tCapital, 5)
+#		utils.makeUnit(iOttomanJanissary, iTurkey, tCapital, 10)
+#		utils.makeUnit(iCuirassier, iTurkey, tCapital, 4)
+#		utils.makeUnit(iBombard, iTurkey, tCapital, 5)
 		
 		# Thailand
 		tCapital = Areas.getCapital(iThailand)
-	#	utils.makeUnit(iMusketman, iThailand, tCapital, 4)
-	#	utils.makeUnit(iPikeman, iThailand, tCapital, 2)
-	#	utils.makeUnit(iThaiChangSuek, iThailand, tCapital, 4)
-	#	utils.makeUnit(iBombard, iThailand, tCapital, 2)
+#		utils.makeUnit(iMusketman, iThailand, tCapital, 4)
+#		utils.makeUnit(iPikeman, iThailand, tCapital, 2)
+#		utils.makeUnit(iThaiChangSuek, iThailand, tCapital, 4)
+#		utils.makeUnit(iBombard, iThailand, tCapital, 2)
 		
 		# Congo
 		tCapital = Areas.getCapital(iCongo)
-	#	utils.makeUnit(iSettler, iCongo, tCapital, 1)
-	#	utils.makeUnit(iCongolesePombos, iCongo, tCapital, 6)
-	#	utils.makeUnit(iCatapult, iCongo, tCapital, 2)
-	#	utils.makeUnit(iLongbowman, iCongo, tCapital, 2)
-	#	utils.makeUnit(iNativeSlave, iCongo, tCapital, 5)
+#		utils.makeUnit(iSettler, iCongo, tCapital, 1)
+#		utils.makeUnit(iCongolesePombos, iCongo, tCapital, 6)
+#		utils.makeUnit(iCatapult, iCongo, tCapital, 2)
+#		utils.makeUnit(iLongbowman, iCongo, tCapital, 2)
+#		utils.makeUnit(iNativeSlave, iCongo, tCapital, 5)
 		
 		# Netherlands
 		tCapital = Areas.getCapital(iNetherlands)
-	#	utils.makeUnit(iRifleman, iNetherlands, tCapital, 5)
-	#	utils.makeUnit(iBombard, iNetherlands, tCapital, 2)
-	#	utils.makeUnit(iDutchEastIndiaman, iNetherlands, tCapital, 3)
+#		utils.makeUnit(iRifleman, iNetherlands, tCapital, 5)
+#		utils.makeUnit(iBombard, iNetherlands, tCapital, 2)
+#		utils.makeUnit(iDutchEastIndiaman, iNetherlands, tCapital, 3)
 		
 		# Prussia
 		tCapital = Areas.getCapital(iGermany)
-	#	utils.makeUnit(iRifleman, iGermany, tCapital, 8)
-	#	utils.makeUnit(iCannon, iGermany, tCapital, 3)
+#		utils.makeUnit(iRifleman, iGermany, tCapital, 8)
+#		utils.makeUnit(iCannon, iGermany, tCapital, 3)
 		
 		for iPlayer in range(iNumPlayers):
 			if tBirth[iPlayer] > utils.getScenarioStartYear() and utils.getHumanID() == iPlayer:
