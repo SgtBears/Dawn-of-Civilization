@@ -532,8 +532,8 @@ class RiseAndFall:
 			
 			
 	def adjust1700ADCulture(self):
-		for x in range(123):
-			for y in range(67):
+		for x in range(124):
+			for y in range(68):
 				plot = gc.getMap().plot(x, y)
 				if plot.getOwner() != -1:
 					utils.convertPlotCulture(plot, plot.getOwner(), 100, True)
