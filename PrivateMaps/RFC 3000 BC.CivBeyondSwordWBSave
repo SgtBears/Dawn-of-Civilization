@@ -33304,7 +33304,7 @@ EndPlot
 BeginPlot
 	x=87,y=40
 	TerrainType=TERRAIN_PLAINS
-	PlotType=2
+	PlotType=2 (1 Harappan Warrior and 1 Harappan Settler, Human only)
 EndPlot
 BeginPlot
 	x=87,y=41

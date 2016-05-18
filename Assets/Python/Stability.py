@@ -176,6 +176,9 @@ def isImmune(iPlayer):
 	if not pPlayer.isAlive() or pPlayer.getNumCities() == 0:
 		return True
 		
+	if pPlayer.isAlive():
+		return True
+		
 	# only for major civs
 	if iPlayer >= iNumPlayers:
 		return True

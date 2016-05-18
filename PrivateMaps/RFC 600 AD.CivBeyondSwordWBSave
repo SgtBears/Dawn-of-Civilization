@@ -22775,7 +22775,7 @@ EndPlot
 BeginPlot
 	x=59,y=58
 	TerrainType=TERRAIN_COAST
-	PlotType=3
+	PlotType=3 (3 Viking Galleys, 1 Viking Workboat)(1 Viking Longbowman and 1 Viking Settler, Human Only)(Either here or x=60,y=58)
 EndPlot
 BeginPlot
 	x=59,y=59
@@ -23207,13 +23207,7 @@ EndPlot
 BeginPlot
 	x=60,y=56
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
-(	BeginUnit)
-(		UnitType=UNIT_LONGBOWMAN, UnitOwner=16, (Vikings)) (AI only)
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_SETTLER, UnitOwner=16, (Vikings)) (AI only)
-(	EndUnit)
+	PlotType=2 (1 Viking Longbowman and 1 Viking Settler, AI Only)
 EndPlot
 BeginPlot
 	x=60,y=57
@@ -23223,39 +23217,12 @@ EndPlot
 BeginPlot
 	x=60,y=58
 	TerrainType=TERRAIN_COAST
-	PlotType=3
-	BeginUnit
-		UnitType=UNIT_GALLEY, UnitOwner=16, (Vikings)
-		UnitAIType=UNITAI_SETTLER_SEA
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_GALLEY, UnitOwner=16, (Vikings)
-		UnitAIType=UNITAI_EXPLORE_SEA
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_GALLEY, UnitOwner=16, (Vikings)
-		UnitAIType=UNITAI_EXPLORE_SEA
-	EndUnit
-	BeginUnit
-		UnitType=UNIT_WORK_BOAT, UnitOwner=16, (Vikings)
-	EndUnit
-(	BeginUnit)
-(		UnitType=UNIT_LONGBOWMAN, UnitOwner=16, (Vikings)) (Human only)
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_SETTLER, UnitOwner=16, (Vikings)) (Human only)
-(	EndUnit)
+	PlotType=3 (3 Viking Galleys, 1 Viking Workboat)(1 Viking Longbowman and 1 Viking Settler, Human Only)(Either here or x=59,y=58)
 EndPlot
 BeginPlot
 	x=60,y=59
 	TerrainType=TERRAIN_GRASS
-	PlotType=1
-(	BeginUnit)
-(		UnitType=UNIT_LONGBOWMAN, UnitOwner=16, (Vikings)) (Human only)
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_LONGBOWMAN, UnitOwner=16, (Vikings)) (Human only)
-(	EndUnit)
+	PlotType=1 (2 Viking Longbowmen and 1 Viking Settler, Human Only)
 	BeginUnit
 		UnitType=UNIT_LONGBOWMAN, UnitOwner=16, (Vikings)
 	EndUnit
@@ -23278,9 +23245,6 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_SCOUT, UnitOwner=16, (Vikings)
 	EndUnit
-(	BeginUnit)
-(		UnitType=UNIT_SETTLER, UnitOwner=16, (Vikings)) (Human only)
-(	EndUnit)
 	BeginUnit
 		UnitType=UNIT_SETTLER, UnitOwner=16, (Vikings)
 	EndUnit
@@ -24492,13 +24456,7 @@ BeginPlot
 	isNOfRiver
 	RiverWEDirection=1
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
-(	BeginUnit)
-(		UnitType=UNIT_LONGBOWMAN, UnitOwner=16, (Vikings)) (AI only)
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_SETTLER, UnitOwner=16, (Vikings)) (AI only)
-(	EndUnit)
+	PlotType=2 (1 Viking Longbowman and 1 Viking Settler, AI Only)
 EndPlot
 BeginPlot
 	x=63,y=60
@@ -38739,19 +38697,8 @@ BeginPlot
 	x=99,y=41
 	RiverNSDirection=2
 	isWOfRiver
-(	RouteType=ROUTE_ROAD)
 	TerrainType=TERRAIN_GRASS
-	PlotType=1
-(	BeginUnit)
-(		UnitType=UNIT_ARCHER, UnitOwner=44, (Independent))
-(	EndUnit)
-(	BeginCity)
-(		CityOwner=44, (Independent))
-(		CityName=Chengdu)
-(		CityPopulation=2)
-(		BuildingType=BUILDING_GRANARY)
-(		ReligionType=RELIGION_CONFUCIANISM)
-(	EndCity)
+	PlotType=1 (Road, Independent Archer, Chengdu Chinese City, 2 Pop, Granary, Confucianism)
 EndPlot
 BeginPlot
 	x=99,y=42
@@ -39175,46 +39122,12 @@ BeginPlot
 	x=100,y=44
 	RouteType=ROUTE_ROAD
 	TerrainType=TERRAIN_GRASS
-	PlotType=1
-(	BeginUnit)
-(		UnitType=UNIT_HORSE_ARCHER, UnitOwner=1, (China))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_CHINESE_CHOKONU, UnitOwner=1, (China))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_CHINESE_CHOKONU, UnitOwner=1, (China))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_SWORDSMAN, UnitOwner=1, (China))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_SWORDSMAN, UnitOwner=1, (China))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_SPEARMAN, UnitOwner=1, (China))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_ARCHER, UnitOwner=1, (China))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_WORKER, UnitOwner=1, (China))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_WORKER, UnitOwner=1, (China))
-(	EndUnit)
+	PlotType=1 (1 Chinese Horse Archer, 2 Chinese Cho-Ko-Nu, 2 Chinese Swordsmen, 1 Chinese Spearman, 2 Chinese Workers)
+(				Xi'an Chinese City, 4 Pop, Palace, Barracks, Forge, Taixue, Confucian Temple, Confucianism, Taoism, 100 Culture)
 	BeginCity
-		CityOwner=45, (China)
-		CityName=Chang'an, (Xi'an)
-		CityPopulation=1, (4)
-(		BuildingType=BUILDING_PALACE)
-(		BuildingType=BUILDING_BARRACKS)
-(		BuildingType=BUILDING_FORGE)
-(		BuildingType=BUILDING_CHINESE_TAIXUE)
-(		BuildingType=BUILDING_CONFUCIAN_TEMPLE)
-(		ReligionType=RELIGION_CONFUCIANISM)
-(		ReligionType=RELIGION_TAOISM)
-		Player45Culture=3000, (100)
+		CityOwner=45
+		CityName=Chang'an
+		CityPopulation=1
 	EndCity
 EndPlot
 BeginPlot
@@ -41295,27 +41208,8 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=105,y=49
-(	RouteType=ROUTE_ROAD)
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
-(	BeginUnit)
-(		UnitType=UNIT_ARCHER, UnitOwner=49, (Barbarian))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_WARRIOR, UnitOwner=49, (Barbarian))
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_WARRIOR, UnitOwner=49, (Barbarian))
-(	EndUnit)
-(	BeginCity)
-(		CityOwner=49, (Barbarian))
-(		CityName=Simiyan hoton)
-(		CityPopulation=2)
-(		BuildingType=BUILDING_WALLS)
-(		BuildingType=BUILDING_GRANARY)
-(		BuildingType=BUILDING_CONFUCIAN_TEMPLE)
-(		ReligionType=RELIGION_CONFUCIANISM)
-(	EndCity)
+	PlotType=2 (Road, 1 Barbarian Archer, 2 Barbarian Warriors, Simiyan hoton Barbarian City, 2 Pop, Walls, Granary, Confucian Temple, Confucianism)
 EndPlot
 BeginPlot
 	x=105,y=50
@@ -42835,13 +42729,7 @@ EndPlot
 BeginPlot
 	x=109,y=46
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
-(	BeginUnit)
-(		UnitType=UNIT_HEAVY_SWORDSMAN, UnitOwner=12, (Korea)) (AI only)
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_HEAVY_SWORDSMAN, UnitOwner=12, (Korea)) (AI only)
-(	EndUnit)
+	PlotType=2 (2 Korean Heavy Swordsmen, AI only)
 	BeginUnit
 		UnitType=UNIT_HORSE_ARCHER, UnitOwner=12, (Korea)
 	EndUnit
@@ -44350,22 +44238,7 @@ EndPlot
 BeginPlot
 	x=113,y=45
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
-(	BeginUnit)
-(		UnitType=UNIT_JAPANESE_SAMURAI, UnitOwner=15, (Japan)) (AI only)
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_JAPANESE_SAMURAI, UnitOwner=15, (Japan)) (AI only)
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_JAPANESE_SAMURAI, UnitOwner=15, (Japan)) (AI only)
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_CROSSBOWMAN, UnitOwner=15, (Japan)) (AI only)
-(	EndUnit)
-(	BeginUnit)
-(		UnitType=UNIT_CROSSBOWMAN, UnitOwner=15, (Japan)) (AI only)
-(	EndUnit)
+	PlotType=2 (3 Japanese Samurai and 2 Japanese Crossbowmen, AI only)
 	BeginUnit
 		UnitType=UNIT_SWORDSMAN, UnitOwner=15, (Japan)
 	EndUnit

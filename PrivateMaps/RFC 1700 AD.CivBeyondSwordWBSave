@@ -52401,7 +52401,7 @@ BeginPlot
 	x=113,y=45
 	RouteType=ROUTE_ROAD
 	TerrainType=TERRAIN_GRASS
-	PlotType=2
+	PlotType=2 (1 Japanese Settler, AI only)
 	BeginUnit
 		UnitType=UNIT_MUSKETMAN, UnitOwner=15, (Japan)
 	EndUnit
@@ -52444,9 +52444,6 @@ BeginPlot
 	BeginUnit
 		UnitType=UNIT_BOMBARD, UnitOwner=15, (Japan)
 	EndUnit
-(	BeginUnit)
-(		UnitType=UNIT_SETTLER, UnitOwner=15, (Japan)) (AI only)
-(	EndUnit)
 	BeginCity
 		CityOwner=15, (Japan)
 		CityName=Kyouto
